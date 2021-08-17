@@ -1,0 +1,810 @@
+phylum,class,order,family,genus,range_min,range_max,extinct,t_occurrences,e_occurrences,species,geoplates,tiering,motility,feeding,protein,reproduction,mineralogy,physiology
+Annelida,Polychaeta,NO_ORDER_SPECIFIED,NO_FAMILY_SPECIFIED,Microtubus,201.3,242,1,30,15,1,3,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,High Mg calcite,moderate carbonate load
+Annelida,Polychaeta,Sabellida,Serpulidae,Serpula,170.3,259.9,0,30,2,2,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,High Mg calcite,moderate carbonate load
+Annelida,Polychaeta,Terebellomorpha,NO_FAMILY_SPECIFIED,Terebella,189.6,242,0,5,0,0,0,shallow infaunal,"facultative, unattached",surface deposit,hemocyanin,broadcaster,soft-bodied,little or no carbonate load
+Arthropoda,Malacostraca,Decapoda,Aegeridae,Aeger,174.1,247.2,0,10,0,0,0,epifaunal,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,moderate carbonate load
+Arthropoda,Malacostraca,Decapoda,Coleiidae,Coleia,183,235,0,5,1,1,1,epifaunal,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,moderate carbonate load
+Arthropoda,Malacostraca,Decapoda,Coleiidae,Pseudocoleia,201.3,237,1,3,2,1,1,epifaunal,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,moderate carbonate load
+Arthropoda,Malacostraca,Decapoda,Erymidae,Eryma,182,254.17,0,11,0,0,0,semi-infaunal,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,moderate carbonate load
+Arthropoda,Malacostraca,Decapoda,Eryonidae,Rosenfeldia,201.3,237,1,3,1,1,1,epifaunal,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,moderate carbonate load
+Arthropoda,Malacostraca,Decapoda,Glypheidae,Glyphea,174.1,237,0,8,0,0,0,semi-infaunal,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,moderate carbonate load
+Arthropoda,Malacostraca,Decapoda,Litogastroidae,Pseudoglyphea,174.1,247.2,0,21,1,1,1,semi-infaunal,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,moderate carbonate load
+Arthropoda,Malacostraca,Decapoda,NO_FAMILY_SPECIFIED,Acanthinopus,201.3,237,1,1,1,1,1,epifaunal,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,moderate carbonate load
+Arthropoda,Malacostraca,Decapoda,NO_FAMILY_SPECIFIED,Dusa,201.3,237,1,7,2,1,1,epifaunal,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,moderate carbonate load
+Arthropoda,Malacostraca,Decapoda,NO_FAMILY_SPECIFIED,Longichela,201.3,228,1,1,1,1,1,epifaunal,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,moderate carbonate load
+Arthropoda,Malacostraca,Decapoda,NO_FAMILY_SPECIFIED,Pinnacaris,201.3,228,1,1,1,1,1,epifaunal,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,moderate carbonate load
+Arthropoda,Malacostraca,Decapoda,NO_FAMILY_SPECIFIED,Satyrocaris,201.3,228,1,1,1,1,1,epifaunal,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,moderate carbonate load
+Arthropoda,Malacostraca,Decapoda,Palinuridae,Archaeopalinurus,174.1,237,0,6,2,1,1,epifaunal,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,moderate carbonate load
+Arthropoda,Malacostraca,Decapoda,Penaeidae,Antrimpos,190.8,247.2,0,17,0,0,0,epifaunal,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,moderate carbonate load
+Arthropoda,Malacostraca,Decapoda,Platychelidae,Glaessnericaris,201.3,228,1,1,1,1,1,semi-infaunal,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,moderate carbonate load
+Arthropoda,Malacostraca,Decapoda,Platykottidae,Platykotta,201.3,212,1,1,1,1,1,epifaunal,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,moderate carbonate load
+Arthropoda,Ostracoda,Myodocopida,Cypridinidae,Cypridina,201.3,265.1,1,4,1,1,1,pelagic,"slow, motile",predator,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Myodocopida,Polycopidae,Polycope,174.1,259.9,0,164,0,0,0,shallow infaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Palaeocopida,NO_FAMILY_SPECIFIED,Circulina,201.3,208.5,1,1,1,1,1,epifaunal,"slow, motile",suspension,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Platycopida,Cavellinidae,Cavussurella,205.6,247.2,1,7,1,1,1,semi-infaunal,"slow, motile",suspension,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Platycopida,Cytherellidae,Cytherella,174.1,235,0,81,12,1,1,semi-infaunal,"slow, motile",suspension,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Platycopida,Cytherellidae,Cytherelloidea,174.1,208.5,0,60,1,1,1,semi-infaunal,"slow, motile",suspension,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bairdiidae,Anisobairdia,183,247.2,0,11,0,0,0,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bairdiidae,Bairdia,174.1,265.1,0,1000,0,0,2,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bairdiidae,Bairdiacypris,174.1,265.1,0,277,0,0,0,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bairdiidae,Bairdiolites,201.3,254.17,1,13,1,1,1,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bairdiidae,Carinobairdia,201.3,208.5,1,6,6,2,2,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bairdiidae,Ceratobairdia,196.5,265.1,0,19,0,0,0,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bairdiidae,Dicerobairdia,201.3,235,1,5,2,1,2,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bairdiidae,Fabalicypris,189.6,265.1,0,148,0,0,0,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bairdiidae,Hiatobairdia,201.3,232,1,5,2,2,1,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bairdiidae,Isobythocypris,182,235,0,63,0,0,0,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bairdiidae,Lobobairdia,182.7,254.17,0,67,4,2,2,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bairdiidae,Nodobairdia,201.3,237,1,6,1,1,1,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bairdiidae,Ptychobairdia,182,252.17,0,50,3,2,1,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bairdiidae,Pustulobairdia,196.5,254.17,0,10,0,0,0,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bairdiidae,Urobairdia,201.3,251.3,1,31,5,2,1,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Brachycytheridae,Rhombocythere,205.6,212,1,1,1,1,1,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bythocyprididae,Bythocypris,175.6,254.17,0,12,0,0,0,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bythocytheridae,Bythoceratina,175.6,208.5,0,15,1,1,1,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bythocytheridae,Covracythere,205.6,252.17,1,4,1,1,1,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bythocytheridae,Monoceratina,174.1,259.9,0,77,2,1,1,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bythocytheridae,Patellacythere,182.7,251.3,0,21,0,0,0,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bythocytheridae,Striatojonesia,182,235,0,4,0,0,0,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Bythocytheridae,Triceratina,201.3,247.2,1,6,5,1,2,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Candonidae,Paracypris,182,254.17,0,61,0,0,0,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Cytheruridae,Eucytherura,174.1,235,0,33,0,0,0,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Cytheruridae,Judahella,201.3,259.9,1,17,2,1,2,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Cytheruridae,Kerocythere,201.3,247.2,1,18,3,2,2,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Cytheruridae,Metacytheropteron,201.3,208.5,1,1,1,1,1,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Cytheruridae,Procytherura,175.6,235,0,11,0,0,0,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Healdiidae,Hungarella,189.6,252.17,0,26,0,0,0,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Healdiidae,Ogmoconcha,174.1,242,0,98,8,4,1,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Healdiidae,Ogmoconchella,182,208.5,0,121,22,2,2,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,NO_FAMILY_SPECIFIED,Leviella,201.3,237,1,7,3,1,1,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Arthropoda,Ostracoda,Podocopida,Pontocyprididae,Pontocyprella,182.7,235,0,25,0,0,0,epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load
+Brachiopoda,Craniata,Craniida,Craniidae,Crania,201.3,259.9,1,5,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Lingulata,Lingulida,Disciniidae,Discina,170.3,259.9,0,12,0,0,0,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,phosphatic,little or no carbonate load
+Brachiopoda,Lingulata,Lingulida,Disciniidae,Discinisca,175.6,228,0,16,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,phosphatic,little or no carbonate load
+Brachiopoda,Lingulata,Lingulida,Lingulidae,Lingularia,174.1,259.9,0,293,4,3,2,shallow infaunal,"facultative, unattached",suspension,hemerythrin,broadcaster,phosphatic,little or no carbonate load
+Brachiopoda,Rhynchonellata,Athyridida,Diplospirellidae,Clavigera,201.6,212,1,11,11,1,2,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Athyridida,Diplospirellidae,Majkopella,201.3,228,1,10,10,3,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Athyridida,Diplospirellidae,Misolia,201.3,237,1,14,4,3,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Athyridida,Diplospirellidae,Ochotathyris,205.6,228,1,9,2,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Athyridida,Diplospirellidae,Oxycolpella,201.3,247.2,1,79,53,5,8,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Athyridida,Diplospirellidae,Stolzenburgiella,201.3,247.2,1,5,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Athyridida,Koninckinidae,Amphiclina,201.3,242,1,51,13,3,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Athyridida,Koninckinidae,Amphiclinodonta,183,242,0,6,0,0,0,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Athyridida,Koninckinidae,Carinokoninckina,201.3,247.2,1,20,2,2,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Athyridida,Koninckinidae,Koninckella,182,247.2,0,36,0,0,0,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Athyridida,Koninckinidae,Koninckina,201.3,237,1,32,4,2,2,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Athyridida,Koninckinidae,Lamellokoninckina,201.3,237,1,7,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Athyridida,Koninckinidae,Septamphiclina,201.3,237,1,3,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Athyridida,Neoretziidae,Neoretzia,201.3,237,1,25,17,1,4,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Athyridida,NO_FAMILY_SPECIFIED,Spirigera,201.3,247.2,1,30,3,3,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Atrypida,Atrypinidae,Hectoria,189.6,212,0,6,5,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Allorhynchidae,Caucasorhynchia,201.3,247.2,1,32,6,4,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Allorhynchidae,Hagabirhynchia,201.3,228,1,4,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Austrirhynchidae,Austrirhynchia,201.3,208.5,1,35,35,1,4,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Austrirhynchidae,Trigonirhynchella,201.3,247.2,1,8,3,2,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Basiliolidae,Veghirhynchia,201.3,242,1,17,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Cyclothyrididae,Costirhynchopsis,201.3,247.2,1,89,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Cyclothyrididae,Fissirhynchia,201.3,232,1,106,83,2,8,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Cyclothyrididae,Timorhynchia,201.3,237,1,17,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Cyclothyrididae,Yidunella,201.3,237,1,10,2,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Erymnariidae,Crurirhynchia,201.3,237,1,7,3,2,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Halorellidae,Halorella,201.3,237,1,19,3,2,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Halorellidae,Halorelloidea,205.6,237,1,10,3,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Norellidae,Austriellula,174.1,251.3,0,46,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Norellidae,Holcorhynchia,182,237,0,7,0,0,0,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Norellidae,Maxillirhynchia,175.6,228,0,5,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Norellidae,Norella,201.3,251.3,1,39,2,2,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Norellidae,Osmarella,201.3,208.5,1,3,3,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Norellidae,Pseudohalorella,201.3,228,1,14,12,1,2,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Peregrinellidae,Carapezzia,199.3,208.5,0,3,2,2,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Rhynchonellidae,Herangirhynchia,174.1,205.6,0,151,3,1,2,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Rhynchonellidae,Lunaria,201.3,237,1,5,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Rhynchonellidae,Murihikurhynchia,190.8,227.5,0,75,10,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Rhynchonellidae,Omolonella,205.6,228,1,10,9,3,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Rhynchonellidae,Piarorhynchia,175.6,237,0,88,25,5,2,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Rhynchonellidae,Planirhynchia,183,242,0,21,2,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Rhynchonellidae,Rhynchonella,182.7,247.2,0,62,3,1,2,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Rhynchonellidae,Rimirhynchopsis,201.3,237,1,4,4,2,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Rhynchonellidae,Sakawairhynchia,174.1,242,0,613,190,5,4,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Rhynchonellidae,Sulcorhynchia,201.3,247.2,1,8,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Rhynchotrematidae,Rhynchotrema,201.3,237,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Sinorhynchiidae,Volirhynchia,201.3,247.2,1,68,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Wellerellidae,Apertirhynchella,201.3,237,1,4,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Wellerellidae,Calcirhynchia,182.7,208.5,0,94,9,1,2,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Wellerellidae,Cirpa,174.1,247.2,0,94,0,0,0,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Wellerellidae,Euxinella,201.3,237,1,33,22,5,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Wellerellidae,Moisseievia,201.3,228,1,4,2,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Wellerellidae,Robinsonella,201.3,228,1,8,4,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Rhynchonellida,Wellerellidae,Vincentirhynchia,174.1,208.5,0,95,12,1,3,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Spiriferinida,Laballidae,Laballa,201.3,237,1,39,24,3,3,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Spiriferinida,Lepismatinidae,Bolilaspirifer,201.3,215.56,1,2,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Spiriferinida,Lepismatinidae,Costispiriferina,201.3,247.2,1,23,6,3,2,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Spiriferinida,Lepismatinidae,Lepismatina,201.3,252.17,1,63,2,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Spiriferinida,Mentzeliidae,Mentzelia,201.3,247.2,1,220,8,5,3,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Spiriferinida,Pennospiriferinidae,Punctospirella,201.3,247.2,1,78,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Spiriferinida,Rastelligeridae,Orientospira,205.6,228,1,7,5,2,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Spiriferinida,Rastelligeridae,Rastelligera,201.3,212,1,4,4,3,2,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Spiriferinida,Sinucostidae,Sinucosta,201.3,247.2,1,63,33,4,4,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Spiriferinida,Spiriferellinidae,Lancangjiangia,201.3,237,1,4,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Spiriferinida,Spiriferellinidae,Tulungospirifer,201.3,247.2,1,16,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Spiriferinida,Spiriferinidae,Pseudospiriferina,196.5,251.3,0,35,0,0,0,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Spiriferinida,Spiriferinidae,Spiriferina,163.5,265.1,0,166,5,4,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Spiriferinida,Spiriferinidae,Triadispira,201.3,228,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Spiriferinida,Spiriferinidae,Viligella,201.3,228,1,6,5,2,2,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Spiriferinida,Spondylospiridae,Spondylospira,201.3,237,1,60,5,2,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Spiriferinida,Spondylospiridae,Zugmayerella,201.3,237,1,115,73,6,7,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Angustothyrididae,Cubanothyris,201.3,237,1,8,4,2,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Angustothyrididae,Rhaetina,201.3,251.3,1,221,173,7,6,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Angustothyrididae,Sanqiaothyris,201.3,237,1,12,2,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Aulacothyropsidae,Aulacothyropsis,201.3,232,1,30,21,8,4,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Aulacothyropsidae,Pseudorugitela,201.3,228,1,2,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Dielasmatidae,Adygella,201.3,247.2,1,37,4,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Dielasmatidae,Coenothyris,205.6,251.2,1,120,2,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Juvavellidae,Wittenburgella,201.3,228,1,4,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Loboidothyrididae,Loboidothyris,170.3,228,0,8,0,0,0,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Lobothyrididae,Lobothyris,163.5,242,0,892,3,2,3,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,NO_FAMILY_SPECIFIED,Pamirothyris,201.3,237,1,5,4,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,NO_FAMILY_SPECIFIED,Pseudopygoides,201.3,228,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Terebratulidae,Terebratula,182.7,252.17,0,26,2,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Triadithyrididae,Laevithyris,201.3,237,1,9,2,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Triadithyrididae,Triadithyris,201.3,237,1,27,19,1,2,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Zeilleriidae,Aulacothyris,171.6,247.2,0,163,2,2,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Zeilleriidae,Kolymithyris,201.3,232,1,14,5,2,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Zeilleriidae,Sacothyris,201.3,247.2,1,17,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Zeilleriidae,Worobievella,201.3,228,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Zeilleriidae,Zeilleria,171.6,237,0,651,82,7,6,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Zugmayeriidae,Adygelloides,201.3,228,1,2,2,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Terebratulida,Zugmayeriidae,Zugmayeria,201.3,208.5,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Thecideida,Bactryniidae,Bactrynium,201.3,208.5,1,6,6,1,2,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Thecideida,Hungarithecidae,Pamirotheca,201.3,228,1,2,2,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Rhynchonellata,Thecideida,Thecospiridae,Thecospira,201.3,242,1,53,8,3,2,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Brachiopoda,Strophomenata,Strophomenida,Strophomenidae,Gosaukammerella,201.3,237,1,10,6,1,1,epifaunal,"stationary, unattached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Bryozoa,Stenolaemata,Cyclostomata,Diastoporidae,Diastopora,201.3,208.5,1,1,1,1,1,erect,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Bryozoa,Stenolaemata,Cyclostomata,Fasciculiporidae,Defrancia,201.3,208.5,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Bryozoa,Stenolaemata,Cyclostomata,Multisparsidae,Reptomultisparsa,201.3,208.5,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Bryozoa,Stenolaemata,Cyclostomata,NO_FAMILY_SPECIFIED,Eoheteropora,201.6,212,1,4,4,2,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Bryozoa,Stenolaemata,Trepostomata,Heterotrypidae,Reptonoditrypa,201.3,247.2,1,9,2,1,1,erect,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Bryozoa,Stenolaemata,Trepostomida,Araxoporidae,Styloclema,205.6,212,1,3,3,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Bryozoa,Stenolaemata,Trepostomida,Dyscritellidae,Dyscritella,201.3,265.1,1,108,2,1,1,erect,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Bryozoa,Stenolaemata,Trepostomida,Stenoporidae,Arcticopora,201.3,259.9,1,49,16,2,1,erect,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Bryozoa,Stenolaemata,Trepostomida,Stenoporidae,Diaphragmopora,205.6,212,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Bryozoa,Stenolaemata,Trepostomida,Stenoporidae,Dyscritellopsis,205.6,251.3,1,7,4,1,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Bryozoa,Stenolaemata,Trepostomida,Stenoporidae,Metastenodiscus,201.3,221.5,1,16,15,2,1,epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load
+Chordata,Conodonta,Conodontophorida,NO_FAMILY_SPECIFIED,Axiothea,201.3,237,1,84,83,1,8,pelagic,"fast, motile",predator,hemoglobin,intermediate,soft-bodied,little or no carbonate load
+Chordata,Conodonta,Conodontophorida,NO_FAMILY_SPECIFIED,Cypridodella,201.3,208.5,1,1,1,1,1,pelagic,"fast, motile",predator,hemoglobin,intermediate,soft-bodied,little or no carbonate load
+Chordata,Conodonta,Conodontophorida,NO_FAMILY_SPECIFIED,Gladigondolella,201.3,251.3,1,56,2,2,1,pelagic,"fast, motile",predator,hemoglobin,intermediate,soft-bodied,little or no carbonate load
+Chordata,Conodonta,Conodontophorida,NO_FAMILY_SPECIFIED,Metaprioniodus,201.3,208.5,1,1,1,1,1,pelagic,"fast, motile",predator,hemoglobin,intermediate,soft-bodied,little or no carbonate load
+Chordata,Conodonta,Conodontophorida,NO_FAMILY_SPECIFIED,Misikella,201.3,237,1,107,102,5,5,pelagic,"fast, motile",predator,hemoglobin,intermediate,soft-bodied,little or no carbonate load
+Chordata,Conodonta,Conodontophorida,NO_FAMILY_SPECIFIED,Neohindeodella,201.3,252.17,1,13,2,2,2,pelagic,"fast, motile",predator,hemoglobin,intermediate,soft-bodied,little or no carbonate load
+Chordata,Conodonta,Conodontophorida,NO_FAMILY_SPECIFIED,Norigondolella,201.3,237,1,74,25,1,2,pelagic,"fast, motile",predator,hemoglobin,intermediate,soft-bodied,little or no carbonate load
+Chordata,Conodonta,Conodontophorida,NO_FAMILY_SPECIFIED,Zieglericonus,201.3,212,1,9,9,1,3,pelagic,"fast, motile",predator,hemoglobin,intermediate,soft-bodied,little or no carbonate load
+Chordata,Conodonta,NO_ORDER_SPECIFIED,NO_FAMILY_SPECIFIED,Ancyrogondolella,201.3,237,1,5,1,1,1,pelagic,"fast, motile",predator,hemoglobin,intermediate,soft-bodied,little or no carbonate load
+Chordata,Conodonta,NO_ORDER_SPECIFIED,NO_FAMILY_SPECIFIED,Metapolygnathus,201.3,242,1,62,3,1,1,pelagic,"fast, motile",predator,hemoglobin,intermediate,soft-bodied,little or no carbonate load
+Chordata,Conodonta,NO_ORDER_SPECIFIED,NO_FAMILY_SPECIFIED,Parvigondolella,201.3,228,1,16,9,2,1,pelagic,"fast, motile",predator,hemoglobin,intermediate,soft-bodied,little or no carbonate load
+Chordata,Conodonta,NO_ORDER_SPECIFIED,NO_FAMILY_SPECIFIED,Tardogondolella,201.3,247.2,1,34,5,1,1,pelagic,"fast, motile",predator,hemoglobin,intermediate,soft-bodied,little or no carbonate load
+Chordata,Conodonta,Ozarkodinida,Gondolellidae,Epigondolella,201.3,247.2,1,251,73,3,4,pelagic,"fast, motile",predator,hemoglobin,intermediate,soft-bodied,little or no carbonate load
+Chordata,Conodonta,Ozarkodinida,Gondolellidae,Mosherella,201.3,208.5,1,1,1,1,1,pelagic,"fast, motile",predator,hemoglobin,intermediate,soft-bodied,little or no carbonate load
+Cnidaria,Anthozoa,NO_ORDER_SPECIFIED,NO_FAMILY_SPECIFIED,Pyxidophyllum,201.3,208.5,1,1,1,1,1,erect,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Actinastreidae,Chondrocoenia,182.7,237,0,68,49,5,7,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Alpinophylliidae,Alpinophyllia,201.3,237,1,8,1,1,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Alpinophylliidae,Alpinoseris,201.3,228,1,2,2,1,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Alpinophylliidae,Stuoresimorpha,201.3,228,1,8,6,1,2,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Astraeomorphidae,Astraeomorpha,201.3,237,1,128,95,7,10,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Astraeomorphidae,Parastraeomorpha,201.3,232,1,11,5,2,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Astraeomorphidae,Seriastraea,201.3,237,1,13,7,2,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Astrocoeniidae,Astrocoenia,205.6,212,1,1,1,1,1,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Caryophylliidae,Trochocyathus,201.3,208.5,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Conophyllidae,Omphalophyllia,201.3,247.2,1,25,2,2,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Cuifastraeidae,Cuifastraea,183,228,0,12,9,2,4,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Cuifastraeidae,Gillastraea,201.3,228,1,3,3,1,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Cyclophylliidae,Cycliphyllia,201.3,228,1,14,10,2,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Cyclophylliidae,Kompsasteria,201.3,228,1,4,3,2,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Gablonzeriidae,Gablonzeria,201.3,237,1,45,19,3,4,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Gigantostyliidae,Gigantostylis,201.3,208.5,1,2,2,1,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Guembelastraeidae,Stuoresia,205.6,237,1,9,1,1,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Margarophylliidae,Distichomeandra,183,237,0,32,12,4,3,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Margarophylliidae,Margarophyllia,201.3,247.2,1,59,2,2,1,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Margarophylliidae,Margarosmilia,201.3,247.2,1,100,11,3,5,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Microsolenidae,Araiophyllum,182.7,237,0,2,0,0,0,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Microsolenidae,Eocomoseris,189.6,242,0,35,10,1,3,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Montlivaltiidae,Elysastraea,183,247.2,0,16,5,2,2,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Montlivaltiidae,Isastraea,201.3,208.5,1,2,2,2,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Montlivaltiidae,Montlivaltia,182.7,247.2,0,35,1,1,2,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Montlivaltiidae,Rhabdophyllia,183,208.5,0,3,2,2,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Montlivaltiidae,Thecosmilia,196.5,247.2,0,9,2,2,2,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,NO_FAMILY_SPECIFIED,Bavarosmilia,201.3,212,1,2,2,1,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,NO_FAMILY_SPECIFIED,Lepiconus,201.3,208.5,1,5,5,2,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Oppelismiliidae,Heterastraea,183,208.5,0,14,1,1,2,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Pamiroseriidae,Ampakabastraea,170.3,228,0,25,6,1,2,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Pamiroseriidae,Beneckastraea,201.3,237,1,5,3,3,1,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Pamiroseriidae,Campesteria,201.3,228,1,3,2,1,1,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Pamiroseriidae,Crassistella,201.3,232,1,30,11,2,4,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Pamiroseriidae,Pamiroseris,201.3,247.2,1,87,55,4,9,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Pamiroseriidae,Rhaetiastraea,201.3,208.5,1,3,3,1,2,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Pinacophyllidae,Cyathocoenia,196.5,228,0,6,5,2,2,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Procyclolitidae,Procyclolites,201.3,228,1,17,12,1,3,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Reimaniphylliidae,Coryphyllia,182.7,242,0,15,2,2,1,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Reimaniphylliidae,Coryphyllina,201.3,208.5,1,1,1,1,1,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Reimaniphylliidae,Craspedophyllia,201.3,242,1,19,1,1,1,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Reimaniphylliidae,Cuifia,201.3,235,1,25,10,3,2,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Reimaniphylliidae,Distichoflabellum,201.3,208.5,1,1,1,1,1,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Reimaniphylliidae,Distichophyllia,201.3,247.2,1,70,37,6,8,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Reimaniphylliidae,Kuhnastraea,201.3,228,1,24,12,2,3,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Reimaniphylliidae,Oedalmia,201.3,228,1,9,6,1,2,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Reimaniphylliidae,Palaeastraea,201.3,232,1,21,20,3,3,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Reimaniphylliidae,Paracuifia,201.3,228,1,6,1,1,1,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Reimaniphylliidae,Primorodendron,205.6,212,1,1,1,1,1,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Reimaniphylliidae,Retiophyllia,199.3,237,0,245,163,25,14,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Reimaniphylliidae,Toechastraea,201.3,237,1,8,1,1,1,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Stylinidae,Stylina,170.3,208.5,0,4,3,3,1,erect,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Stylophyllidae,Anthostylis,201.3,228,1,11,9,1,3,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Stylophyllidae,Coccophyllum,182.7,228,0,8,7,1,2,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Stylophyllidae,Maeandrostylis,201.3,228,1,8,7,4,2,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Stylophyllidae,Meandrostylis,201.3,228,1,14,7,1,2,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Stylophyllidae,Meandrostylophyllum,201.3,208.5,1,2,2,1,1,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Stylophyllidae,Monstroseris,201.3,208.5,1,1,1,1,1,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Stylophyllidae,Pamirophyllum,201.3,212,1,5,5,3,4,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Stylophyllidae,Phacelostylophyllum,189.6,235,0,26,13,2,3,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Stylophyllidae,Pinacophyllum,182.7,247.2,0,27,4,1,1,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Stylophyllidae,Stylophyllopsis,182.7,247.2,0,72,41,9,7,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Stylophyllidae,Stylophyllum,182.7,228,0,35,31,7,3,erect,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Thamnasteriidae,Mesomorpha,183,242,0,3,0,0,0,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Thamnasteriidae,Recticostastraea,201.3,221.5,1,2,1,1,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Thamnasteriidae,Thamnasteria,174.1,232,0,15,7,3,4,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Thamnasteriidae,Thamnastraea,201.3,237,1,4,4,4,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Tropiastraeidae,Guembelastraea,190.8,237,0,18,2,1,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Tropiastraeidae,Thamnasteriamorpha,201.3,237,1,18,2,2,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Volzeiidae,Alakiria,199.3,228,0,3,1,1,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Volzeiidae,Volzeia,183,247.2,0,50,3,2,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Zardinophyllidae,Pachydendron,201.3,237,1,5,1,1,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Zardinophyllidae,Sichuanophyllia,201.3,237,1,1,1,1,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Scleractinia,Zardinophyllidae,Zardinophyllum,201.3,242,1,3,2,1,1,erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Anthozoa,Stauriida,Cyathophyllidae,Cyathophyllum,201.3,208.5,1,3,3,1,1,erect,"stationary, attached",suspension,hemocyanin,broadcaster,low Mg calcite,heavy carbonate load
+Cnidaria,Hydrozoa,Hydrocorallinae,NO_FAMILY_SPECIFIED,Jillua,205.6,215.56,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Hydrozoa,Milleporina,Heterastrididae,Heterastridium,201.3,237,1,22,8,2,3,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Hydrozoa,Spongiomorphida,Spongiomorphidae,Spongiomorpha,182.7,247.2,0,39,9,4,2,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Cnidaria,Scyphozoa,Conulariida,Conulariidae,Paraconularia,201.6,259.9,1,20,5,1,3,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,phosphatic,little or no carbonate load
+Echinodermata,Crinoidea,Comatulidina,Paracomatulidae,Paracomatula,201.6,205.6,1,1,1,1,1,erect,"facultative, attached",suspension,other,broadcaster,high Mg calcite,heavy carbonate load
+Echinodermata,Crinoidea,Isocrinida,Isocrinidae,Isocrinus,163.5,242,0,65,3,2,1,erect,"facultative, attached",suspension,other,broadcaster,high Mg calcite,heavy carbonate load
+Echinodermata,Crinoidea,Isocrinida,Tulipacrinidae,Tulipacrinus,201.3,235,1,5,1,1,1,erect,"facultative, attached",suspension,other,broadcaster,high Mg calcite,heavy carbonate load
+Echinodermata,Crinoidea,NO_ORDER_SPECIFIED,Lanternocrinidae,Lanternocrinus,201.3,215.56,1,10,9,1,1,pelagic,"facultative, attached",suspension,other,broadcaster,high Mg calcite,heavy carbonate load
+Echinodermata,Crinoidea,NO_ORDER_SPECIFIED,Leocrinidae,Leocrinus,201.3,221.5,1,21,15,5,1,pelagic,"facultative, attached",suspension,other,broadcaster,high Mg calcite,heavy carbonate load
+Echinodermata,Crinoidea,NO_ORDER_SPECIFIED,NO_FAMILY_SPECIFIED,Pentacrinus,170.3,247.2,0,13,1,1,2,erect,"stationary, attached",suspension,other,broadcaster,high Mg calcite,heavy carbonate load
+Echinodermata,Echinoidea,Cidaroida,Cidaridae,Cidaris,201.3,247.2,1,40,10,7,1,epifaunal,"slow, motile",grazer/predator,other,intermediate,high Mg calcite,moderate carbonate load
+Echinodermata,Echinoidea,Cidaroida,Cidaridae,Triassicidaris,201.3,237,1,4,2,1,1,epifaunal,"slow, motile",grazer/predator,other,intermediate,high Mg calcite,moderate carbonate load
+Echinodermata,Echinoidea,Cidaroida,Miocidaridae,Dicyclocidaris,201.3,237,1,1,1,1,1,epifaunal,"slow, motile",grazer/predator,other,intermediate,high Mg calcite,moderate carbonate load
+Echinodermata,Echinoidea,Cidaroida,Miocidaridae,Miocidaris,190.8,237,0,5,0,0,0,epifaunal,"slow, motile",grazer/predator,other,intermediate,high Mg calcite,moderate carbonate load
+Echinodermata,Echinoidea,Cidaroida,Miocidaridae,Procidaris,183,208.5,0,14,1,1,1,epifaunal,"slow, motile",grazer/predator,other,intermediate,high Mg calcite,moderate carbonate load
+Echinodermata,Echinoidea,Cidaroida,Polycidaridae,Polycidaris,182,235,0,2,0,0,0,epifaunal,"slow, motile",grazer/predator,other,intermediate,high Mg calcite,moderate carbonate load
+Echinodermata,Echinoidea,NO_ORDER_SPECIFIED,Pseudodiadematidae,Hypodiadema,201.3,208.5,1,1,1,1,1,epifaunal,"slow, motile",grazer,other,intermediate,high Mg calcite,moderate carbonate load
+Echinodermata,Echinoidea,NO_ORDER_SPECIFIED,Triadocidaridae,Zardinechinus,201.3,237,1,12,3,2,2,epifaunal,"slow, motile",grazer/predator,other,intermediate,high Mg calcite,moderate carbonate load
+Echinodermata,Echinoidea,Pedinoida,Pedinidae,Diademopsis,189.6,228,0,11,2,2,2,epifaunal,"slow, motile",grazer,other,intermediate,high Mg calcite,moderate carbonate load
+Echinodermata,Echinoidea,Pedinoida,Pedinidae,Hemipedina,175.6,237,0,7,0,0,0,epifaunal,"slow, motile",grazer,other,intermediate,high Mg calcite,moderate carbonate load
+Echinodermata,Holothuroidea,Apodida,Achistridae,Achistrum,182.7,265.1,0,30,2,2,1,epifaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,Apodida,Chiridotidae,Theelia,182,259.9,0,121,26,11,2,epifaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,Apodida,Myriotrochidae,Acanthotheelia,205.6,247.2,1,24,4,4,1,epifaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,Apodida,Theeliidae,Jumaraina,201.3,247.2,1,13,6,2,1,epifaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,Dendrochirotida,Calclamnidae,Calclamna,205.6,237,1,5,2,2,1,epifaunal,"facultative, attached",suspension,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,Dendrochirotida,Calclamnidae,Calclamnella,201.3,259.9,1,8,2,1,1,epifaunal,"facultative, attached",suspension,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,Dendrochirotida,Calclamnidae,Curvatella,205.6,212,1,1,1,1,1,epifaunal,"slow, motile",suspension,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,Dendrochirotida,Calclamnidae,Eocaudina,174.1,265.1,0,39,3,2,2,epifaunal,"facultative, attached",suspension,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,Dendrochirotida,Calclamnidae,Fissobractites,201.3,208.5,1,3,3,1,2,epifaunal,"facultative, attached",suspension,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,Dendrochirotida,Calclamnidae,Praecaudina,205.6,237,1,6,2,1,1,epifaunal,"facultative, attached",suspension,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,Dendrochirotida,NO_FAMILY_SPECIFIED,Binoculites,182.7,247.2,0,23,3,2,2,epifaunal,"facultative, attached",suspension,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,Elasipodida,NO_FAMILY_SPECIFIED,Praeeuphronides,182.7,242,0,16,5,3,1,epifaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,Elasipodida,NO_FAMILY_SPECIFIED,Uncinulina,174.1,221.5,0,4,0,0,0,epifaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,NO_ORDER_SPECIFIED,Canisiidae,Canisia,205.6,237,1,2,1,1,1,epifaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,NO_ORDER_SPECIFIED,Kuehnitidae,Kuehnites,201.3,247.2,1,20,8,5,1,epifaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,NO_ORDER_SPECIFIED,NO_FAMILY_SPECIFIED,Staurocumites,190.8,247.2,0,16,2,1,1,epifaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,NO_ORDER_SPECIFIED,NO_FAMILY_SPECIFIED,Tetravirga,205.6,247.2,1,16,1,1,1,epifaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,NO_ORDER_SPECIFIED,NO_FAMILY_SPECIFIED,Uniramosa,205.6,237,1,2,1,1,1,semi-infaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,NO_ORDER_SPECIFIED,Palelpidiidae,Palelpidia,205.6,237,1,2,1,1,1,semi-infaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,NO_ORDER_SPECIFIED,Priscopedatidae,Priscopedatus,174.1,265.1,0,52,9,7,1,semi-infaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,NO_ORDER_SPECIFIED,Priscopedatidae,Solopedatus,205.6,212,1,1,1,1,1,epifaunal,"slow, motile",suspension,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,NO_ORDER_SPECIFIED,Punctatitidae,Punctatites,174.1,259.9,0,20,3,2,1,epifaunal,"slow, motile",suspension,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,NO_ORDER_SPECIFIED,Punctatitidae,Uncinulinoides,201.3,212,1,3,3,3,1,epifaunal,"slow, motile",suspension,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,NO_ORDER_SPECIFIED,Semperitidae,Biacumina,199.3,212,0,2,1,1,1,semi-infaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,NO_ORDER_SPECIFIED,Semperitidae,Semperites,205.6,228,1,3,2,2,1,semi-infaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,NO_ORDER_SPECIFIED,Stichopitidae,Frangerites,205.6,221.5,1,2,1,1,1,semi-infaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,NO_ORDER_SPECIFIED,Stichopitidae,Stichopitella,205.6,247.2,1,3,1,1,1,semi-infaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Holothuroidea,NO_ORDER_SPECIFIED,Stichopitidae,Stichopites,175.6,247.2,0,2,0,0,0,semi-infaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load
+Echinodermata,Ophiuroidea,Ophiurida,Ophiacanthidae,Ophiacantha,201.3,208.5,1,3,3,2,2,semi-infaunal,"slow, motile",predator,other,intermediate,high Mg calcite,heavy carbonate load
+Echinodermata,Ophiuroidea,Ophiurida,Ophiodermatidae,Ophioderma,183,254.17,0,6,2,1,1,epifaunal,"slow, motile",surface deposit,other,intermediate,high Mg calcite,heavy carbonate load
+Echinodermata,Ophiuroidea,Ophiurida,Ophiodermatidae,Palaeocoma,182,242,0,17,1,1,1,epifaunal,"slow, motile",surface deposit,other,intermediate,high Mg calcite,heavy carbonate load
+Echinodermata,Ophiuroidea,Ophiurida,Ophiolepididae,Aplocoma,196.5,252.17,0,6,2,1,1,epifaunal,"slow, motile",surface deposit,other,intermediate,high Mg calcite,heavy carbonate load
+Echinodermata,Ophiuroidea,Ophiurida,Ophiolepididae,Ophiolepis,201.3,208.5,1,1,1,1,1,epifaunal,"slow, motile",surface deposit,other,intermediate,high Mg calcite,heavy carbonate load
+Echinodermata,Ophiuroidea,Ophiurida,Ophiolepididae,Ophiomusium,182,208.5,0,7,1,1,1,epifaunal,"slow, motile",surface deposit,other,intermediate,high Mg calcite,heavy carbonate load
+Echinodermata,Ophiuroidea,Ophiurida,Ophiuridae,Aspiduriella,201.3,247.2,1,17,1,1,1,epifaunal,"slow, motile",surface deposit,other,intermediate,high Mg calcite,heavy carbonate load
+Echinodermata,Ophiuroidea,Ophiurida,Ophiuridae,Ophiura,201.3,208.5,1,1,1,1,1,epifaunal,"slow, motile",surface deposit,other,intermediate,high Mg calcite,heavy carbonate load
+Echinodermata,Ophiuroidea,Phrynophiurida,Eospondylidae,Ophioflabellum,201.3,212,1,4,4,3,3,epifaunal,"slow, motile",suspension,other,intermediate,high Mg calcite,heavy carbonate load
+Mollusca,Bivalvia,Arcida,Arcidae,Arca,182.7,247.2,0,15,9,6,1,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Arcida,Cucullaeidae,Cucullaea,170.3,242,0,59,0,0,0,semi-infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Arcida,Parallelodontidae,Bapristodia,201.3,208.5,1,1,1,1,1,semi-infaunal,"facultative, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Arcida,Parallelodontidae,Catella,182,247.2,0,16,5,2,3,semi-infaunal,"facultative, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Arcida,Parallelodontidae,Grammatodon,174.1,265.1,0,177,5,2,2,semi-infaunal,"facultative, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Arcida,Parallelodontidae,Macrodon,201.3,247.2,1,40,1,1,1,semi-infaunal,"facultative, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Arcida,Parallelodontidae,Parallelodon,163.5,265.1,0,307,8,3,5,semi-infaunal,"facultative, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Cardiida,Cardiidae,Cardium,190.8,237,0,23,20,9,2,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Cardiida,Cardiidae,Protocardia,163.5,237,0,258,64,4,7,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Cardiida,Cardiidae,Septocardia,201.3,242,1,36,10,4,3,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Cardiida,Donacidae,Donax,201.3,208.5,1,1,1,1,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Cardiida,Kalenteridae,Kalentera,182.7,208.5,0,11,4,1,2,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Cardiida,Kalenteridae,Myoconcha,174.1,265.1,0,102,3,3,1,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Cardiida,Kalenteridae,Ouamouia,201.3,232,1,4,1,1,1,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Cardiida,Kalenteridae,Permophorus,201.3,265.1,1,154,1,1,1,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Cardiida,Kalenteridae,Triaphorus,201.3,247.2,1,9,2,1,1,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Cardiida,Myoconchidae,Healeya,201.3,237,1,4,3,1,1,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Cardiida,Neoleptonidae,Curionia,201.3,242,1,9,1,1,1,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Cardiida,Palaeocarditidae,Palaeocardita,201.3,237,1,147,116,9,7,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Cardiida,Pterocardiidae,Tulongocardium,205.6,228,1,4,3,1,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Cardiida,Tancrediidae,Tancredia,170.3,247.2,0,16,3,1,2,deep infaunal,"facultative, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Cardiida,Tellinidae,Tellina,201.3,247.2,1,2,1,1,1,shallow infaunal,"facultative, unattached",surface deposit,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Carditida,Astartidae,Astarte,182,247.2,0,48,1,1,1,shallow infaunal,"slow, motile",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Carditida,Astartidae,Coelopis,175.6,247.2,0,38,2,2,1,shallow infaunal,"slow, motile",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Carditida,Astartidae,Nicaniella,170.3,228,0,118,2,1,1,shallow infaunal,"slow, motile",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Carditida,Astartidae,Opis,182,242,0,12,4,3,1,shallow infaunal,"slow, motile",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Carditida,Astartidae,Praeconia,190.8,212,0,11,5,1,1,shallow infaunal,"slow, motile",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Carditida,Astartidae,Trigonopis,189.6,212,0,4,3,2,1,shallow infaunal,"slow, motile",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Carditida,Cardiniidae,Cardinia,163.5,237,0,230,28,2,6,shallow infaunal,"slow, motile",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Carditida,Cardiniidae,Torastarte,201.3,208.5,1,7,7,1,2,shallow infaunal,"slow, motile",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Carditida,Carditidae,Cardita,201.3,237,1,21,9,7,2,shallow infaunal,"facultative, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Carditida,Carditidae,Carditamera,201.3,208.5,1,2,2,1,1,shallow infaunal,"facultative, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Carditida,Carditidae,Tutcheria,174.1,228,0,31,3,2,3,shallow infaunal,"facultative, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Carditida,Myophoricardiidae,Myophoricardium,201.3,251.2,1,34,16,3,1,shallow infaunal,"slow, motile",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Carditida,Myophoricardiidae,Myophoriopis,201.3,251.2,1,60,41,3,3,shallow infaunal,"slow, motile",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Carditida,Myophoricardiidae,Pseudocorbula,201.3,252.17,1,58,2,1,1,shallow infaunal,"slow, motile",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Hiatellida,Hiatellidae,Hiatella,189.6,242,0,9,0,0,0,shallow infaunal,"facultative, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Lucinida,Lucinidae,Corbis,201.3,237,1,5,1,1,1,deep infaunal,"facultative, unattached",symbionts,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Lucinida,Lucinidae,Krumbeckia,201.3,237,1,2,2,1,1,deep infaunal,"facultative, unattached",symbionts,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Lucinida,Lucinidae,Lucina,183,247.2,0,31,1,1,1,deep infaunal,"facultative, unattached",symbionts,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Lucinida,Lucinidae,Luciniola,168.3,208.5,0,12,2,1,1,shallow infaunal,"facultative, unattached",symbionts,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Lucinida,Lucinidae,Schafhaeutlia,182.7,251.2,0,125,17,3,4,deep infaunal,"facultative, unattached",symbionts,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Lucinida,Lucinidae,Sphaeriola,189.6,251.2,0,6,0,0,0,shallow infaunal,"facultative, unattached",symbionts,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Lucinida,Mactromyidae,Mactromya,175.6,247.2,0,95,0,0,0,deep infaunal,"facultative, unattached",symbionts,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Megalodontida,Dicerocardiidae,Dicerocardium,201.3,237,1,20,6,4,2,semi-infaunal,"stationary, unattached",symbionts,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Megalodontida,Megalodontidae,Lycodus,201.3,212,1,13,13,2,3,semi-infaunal,"stationary, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Megalodontida,Megalodontidae,Neomegalodon,201.3,237,1,79,2,2,1,semi-infaunal,"stationary, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Megalodontida,Megalodontidae,Pachyrisma,182.7,247.2,0,22,0,0,0,semi-infaunal,"stationary, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Megalodontida,Megalodontidae,Quemocuomegalodon,201.3,237,1,3,1,1,1,semi-infaunal,"stationary, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Megalodontida,Megalodontidae,Rhaetomegalodon,201.3,208.5,1,8,8,2,1,semi-infaunal,"stationary, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Megalodontida,Megalodontidae,Triadomegalodon,201.3,228,1,22,6,3,2,semi-infaunal,"stationary, unattached",symbionts,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Megalodontida,Wallowaconchidae,Wallowaconcha,201.3,228,1,8,3,1,1,semi-infaunal,"stationary, unattached",symbionts,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Modiomorphida,Palaeopharidae,Palaeopharus,201.3,237,1,27,7,4,2,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Myalinida,Inoceramidae,Arctomytiloides,190.8,228,0,6,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,low Mg calcite,moderate carbonate load
+Mollusca,Bivalvia,Myalinida,Inoceramidae,Inoceramus,201.3,228,1,31,4,2,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,low Mg calcite,moderate carbonate load
+Mollusca,Bivalvia,Myalinida,Myalinidae,Aviculomyalina,201.3,247.2,1,5,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Myalinida,Mysidiellidae,Mysidia,201.3,237,1,3,2,1,1,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Myalinida,Mysidiellidae,Mysidiella,201.3,237,1,12,10,2,1,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Mytilida,Mytilidae,Falcimytilus,174.1,247.2,0,23,0,0,0,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Mytilida,Mytilidae,Inoperna,175.6,212,0,88,27,1,3,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Mytilida,Mytilidae,Modiola,190.8,251.2,0,58,10,2,2,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Mytilida,Mytilidae,Modiolus,163.5,265.1,0,353,18,10,5,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,182.7,251.3,0,51,21,5,4,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Mytilida,Mytilidae,Perna,196.5,208.5,0,3,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,NO_ORDER_SPECIFIED,NO_FAMILY_SPECIFIED,Taeniodon,201.3,208.5,1,2,2,1,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Nuculanida,Isoarcidae,Isoarca,201.3,221.5,1,2,1,1,1,shallow infaunal,"slow, motile",miner,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Nuculanida,Malletiidae,Dianucula,201.3,208.5,1,1,1,1,1,shallow infaunal,"slow, motile",miner,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Nuculanida,Malletiidae,Palaeoneilo,174.1,268.8,0,292,3,2,2,shallow infaunal,"slow, motile",miner,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Nuculanida,Neilonellidae,Austrotindaria,201.3,254.17,1,362,1,1,1,shallow infaunal,"slow, motile",miner,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Nuculanida,NO_FAMILY_SPECIFIED,Ryderia,174.1,208.5,0,16,2,2,2,shallow infaunal,"slow, motile",miner,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Nuculanida,Nuculanidae,Clidophorus,201.3,237,1,1,1,1,1,shallow infaunal,"slow, motile",miner,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Nuculanida,Nuculanidae,Dacromya,182,247.2,0,8,0,0,2,shallow infaunal,"slow, motile",miner,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Nuculanida,Nuculanidae,Mesosaccella,201.3,212,1,5,5,1,1,shallow infaunal,"slow, motile",miner,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Nuculanida,Nuculanidae,Nuculana,168.3,251.3,0,200,56,11,4,shallow infaunal,"slow, motile",miner,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Nuculanida,Yoldiidae,Rollieria,174.1,252.17,0,33,2,1,2,shallow infaunal,"slow, motile",miner,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Nuculida,Nuculidae,Nucula,170.3,252.17,0,85,14,6,5,shallow infaunal,"slow, motile",miner,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Nuculida,Nuculidae,Palaeonucula,170.3,254.17,0,166,2,1,1,shallow infaunal,"slow, motile",miner,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Nuculida,Nuculidae,Trigonucula,201.3,237,1,9,5,1,1,shallow infaunal,"slow, motile",miner,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Bakevelliidae,Bakevellia,174.1,265.1,0,652,56,2,3,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Bakevelliidae,Gervillaria,170.3,247.2,0,54,1,1,1,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Bakevelliidae,Gervillella,175.6,251.3,0,73,1,1,1,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Bakevelliidae,Gervillia,170.3,265.1,0,239,102,13,6,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Cassianellidae,Cassianella,201.3,247.2,1,270,67,9,9,epifaunal,"stationary, unattached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Gryphaeidae,Gryphaea,163.5,242,0,497,2,2,2,epifaunal,"stationary, unattached",suspension,hemocyanin,broadcaster,low Mg calcite,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Gryphaeidae,Liostrea,163.5,228,0,134,24,4,3,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,low Mg calcite,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Halobiidae,Daonella,205.6,251.3,1,481,1,1,1,epifaunal,"facultative, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Halobiidae,Halobia,201.3,247.2,1,657,41,24,2,epifaunal,"facultative, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Malleidae,Isognomon,170.3,228,0,47,4,2,1,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Ostreidae,Lopha,174.1,247.2,0,23,13,2,4,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,low Mg calcite,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Ostreidae,Ostrea,170.3,251.2,0,31,4,3,2,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,low Mg calcite,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Ostreidae,Umbrostrea,201.3,251.2,1,113,26,3,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Palaeolophidae,Actinostreon,174.1,228,0,127,8,3,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,low Mg calcite,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Pergamidiidae,Krumbeckiella,201.3,237,1,6,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Pergamidiidae,Manticula,182.7,242,0,12,0,0,0,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Pergamidiidae,Pergamidia,201.3,237,1,9,2,2,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Pinnidae,Pinna,163.5,252.17,0,246,32,6,3,semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Posidoniidae,Bositra,163.5,252.17,0,124,0,0,0,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,low Mg calcite,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Posidoniidae,Posidonia,205.6,252.17,1,47,3,2,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,low Mg calcite,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Posidoniidae,Posidonomya,201.3,252.17,1,11,2,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,low Mg calcite,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Pteriidae,Avicula,189.6,254.17,0,124,12,6,2,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Pteriidae,Pteria,183,254.17,0,241,3,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Pteriidae,Pteroperna,182.7,212,0,5,3,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Ostreida,Pteriidae,Rhaetavicula,201.3,237,1,109,109,1,5,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pandorida,Laternulidae,Cercomya,170.3,212,0,15,4,1,2,deep infaunal,"slow, motile",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pandorida,Laternulidae,Laternula,201.3,247.2,1,2,1,1,1,deep infaunal,"slow, motile",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Anomiidae,Anomia,189.6,247.2,0,16,7,5,2,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Anomiidae,Placunopsis,170.3,251.3,0,125,7,4,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Aviculopectinidae,Primahinnites,205.6,212,1,6,6,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Buchiidae,Hokonuia,205.6,237,1,10,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,low Mg calcite,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Dimyidae,Atreta,174.1,237,0,119,101,2,4,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Dimyidae,Dimyodon,201.3,247.2,1,10,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Entoliidae,Bupecten,201.3,242,1,2,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Heteropectinidae,Eumorphotis,201.3,254.17,1,424,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Heteropectinidae,Neomorphotis,201.3,252.17,1,21,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Hunanopectinidae,Asoella,182.7,251.3,0,26,5,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Hunanopectinidae,Leptochondria,201.3,259.9,1,315,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Limidae,Antiquilima,170.3,242,0,55,13,3,3,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Limidae,Ctenostreon,170.3,208.5,0,104,2,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Limidae,Lima,170.3,254.17,0,243,20,13,4,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Limidae,Limatula,201.3,247.2,1,4,1,1,1,epifaunal,"facultative, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Limidae,Limea,163.5,251.3,0,221,26,5,4,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Limidae,Mysidioptera,201.3,251.2,1,159,4,2,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Limidae,Palaeolima,201.3,265.1,1,44,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Limidae,Plagiostoma,163.5,254.17,0,338,65,7,5,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Limidae,Serania,201.3,212,1,8,8,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Monotidae,Monotis,201.3,251.3,1,311,111,30,3,epifaunal,"facultative, attached",suspension,hemocyanin,broadcaster,low Mg calcite,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Monotidae,Otapiria,182.7,237,0,59,9,5,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,low Mg calcite,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Neitheidae,Weyla,174.1,221.5,0,480,0,0,0,epifaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,NO_FAMILY_SPECIFIED,Calvaentolium,183,247.2,0,34,4,1,1,epifaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,NO_FAMILY_SPECIFIED,Entolium,163.5,265.1,0,646,10,6,1,epifaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Oxytomidae,Meleagrinella,168.3,247.2,0,112,4,2,4,epifaunal,"facultative, attached",suspension,hemocyanin,broadcaster,low Mg calcite,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Oxytomidae,Oxytoma,168.3,259.9,0,320,38,8,7,epifaunal,"facultative, attached",suspension,hemocyanin,broadcaster,low Mg calcite,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Pectinidae,Agerchlamys,174.1,208.5,0,41,2,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Pectinidae,Camptochlamys,189.6,242,0,16,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Pectinidae,Camptonectes,163.5,237,0,139,2,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Pectinidae,Chlamys,170.3,254.17,0,518,71,11,10,epifaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Pectinidae,Eopecten,174.1,247.2,0,80,0,0,0,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Pectinidae,Hinnites,201.3,254.17,1,2,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Pectinidae,Indopecten,201.3,237,1,53,41,7,2,epifaunal,"facultative, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Pectinidae,Loxochlamys,201.3,242,1,3,2,2,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Pectinidae,Lyssochlamys,201.3,228,1,3,2,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Pectinidae,Ochotochlamys,174.1,247.2,0,74,0,0,0,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten,170.3,254.17,0,237,22,17,4,epifaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Pectinidae,Pseudopecten,174.1,208.5,0,206,2,2,1,epifaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Pectinidae,Tosapecten,201.3,247.2,1,82,20,5,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Plicatulidae,Eoplicatula,201.3,247.2,1,9,4,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Plicatulidae,Harpax,170.3,228,0,176,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Plicatulidae,Plicatula,174.1,247.2,0,146,14,6,2,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Plicatulidae,Pseudoplacunopsis,199.3,237,0,104,98,3,7,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Propeamussiidae,Filamussium,201.3,237,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Propeamussiidae,Parvamussium,168.3,215.56,0,140,6,1,2,epifaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Prospondylidae,Persia,196.5,228,0,18,15,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Pseudomonotidae,Pseudomonotis,170.3,265.1,0,67,3,3,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pectinida,Terquemiidae,Newaagia,196.5,247.2,0,33,10,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Pholadida,Ceratomyidae,Gresslya,170.3,247.2,0,85,0,0,0,deep infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Pholadida,Ceratomyidae,Makoiamya,201.6,247.2,1,107,106,1,3,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Pholadida,Ceratomyidae,Ochotomya,201.3,228,1,13,8,3,2,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Pholadida,Ceratomyidae,Pteromya,196.5,208.5,0,39,9,1,2,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Pholadida,Corbulidae,Antiquicorbula,201.3,212,1,3,3,1,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Pholadida,Corbulidae,Corbula,201.3,208.5,1,2,2,2,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Pholadida,Pleuromyidae,Pleuromya,170.3,251.3,0,319,6,4,1,deep infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Pholadomyida,Pholadomyidae,Goniomya,168.3,221.5,0,34,0,0,0,deep infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Pholadomyida,Pholadomyidae,Homomya,174.1,252.17,0,100,34,4,3,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Pholadomyida,Pholadomyidae,Osteomya,174.1,247.2,0,11,0,0,0,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Pholadomyida,Pholadomyidae,Pachymya,182.7,247.2,0,12,0,0,0,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Pholadomyida,Pholadomyidae,Pholadomya,168.3,221.5,0,330,19,8,4,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Pterioida,Prospondylidea,Terquemia,163.5,252.17,0,46,0,0,0,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load
+Mollusca,Bivalvia,Solemyida,Manzanellidae,Nucinella,199.3,252.17,0,4,0,0,0,shallow infaunal,"slow, motile",symbionts,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Thraciida,Burmesiidae,Burmesia,199.3,251.2,0,10,4,2,1,deep infaunal,"slow, motile",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Thraciida,Burmesiidae,Prolaria,201.3,237,1,2,2,1,1,deep infaunal,"slow, motile",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Thraciida,Thraciidae,Thracia,174.1,247.2,0,16,1,1,1,deep infaunal,"slow, motile",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Trigoniida,Myophoriidae,Acanomyphoria,201.3,237,1,1,1,1,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Trigoniida,Myophoriidae,Costatoria,201.3,259,1,218,24,5,2,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Trigoniida,Myophoriidae,Gruenewaldia,201.3,242,1,52,14,2,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Trigoniida,Myophoriidae,Myophoria,182.7,252.17,0,217,37,10,6,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Trigoniida,Myophoriidae,Neoschizodus,201.3,259.9,1,429,3,1,2,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Trigoniida,Myophoriidae,Trigonodus,201.3,252.17,1,165,2,2,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Trigoniida,Prosogyrotrigoniidae,Prosogyrotrigonia,189.6,228,0,6,1,1,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Trigoniida,Pseudocardiniidae,Jiangxiella,201.3,237,1,1,1,1,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Trigoniida,Schizodidae,Schizodus,201.3,268.8,1,204,4,2,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Trigoniida,Trigoniidae,Guineana,201.3,247.2,1,6,2,2,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Trigoniida,Trigoniidae,Maoritrigonia,201.3,237,1,16,7,4,3,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Trigoniida,Trigoniidae,Minetrigonia,201.3,237,1,27,9,4,3,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Trigoniida,Trigoniidae,Modesticoncha,201.3,212,1,13,13,1,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Trigoniida,Trigoniidae,Myophorigonia,201.3,242,1,19,5,3,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Trigoniida,Trigoniidae,Perugonia,201.3,237,1,2,1,1,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Trigoniida,Trigoniidae,Trigonia,174.1,247.2,0,77,4,3,2,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Trigoniida,Trigonodidae,Cardinioides,182.7,251.3,0,19,0,0,0,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Trigoniida,Trigonodidae,Myacites,201.3,247.2,1,14,7,1,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Trigoniida,Trigonodidae,Unionites,201.3,252.17,1,224,24,9,5,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Veneroidei,Anatinellidae,Anatina,201.3,237,1,20,19,5,2,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Veneroidei,Arcticidae,Cyprina,201.3,247.2,1,3,2,2,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Veneroidei,Arcticidae,Isocyprina,182,237,0,133,86,5,6,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Veneroidei,Glossidae,Isocardia,201.3,235,1,4,3,2,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Veneroidei,Glossidae,Isocardioides,201.3,237,1,1,1,1,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Veneroidei,Neomiodontidae,Eosion,201.3,208.5,1,1,1,1,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Veneroidei,Sibireconchidae,Liaoningia,201.3,237,1,1,1,1,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Veneroidei,Trapezidae,Cypricardia,201.3,247.2,1,3,1,1,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Veneroidei,Veneridae,Pullastra,201.3,208.5,1,1,1,1,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Bivalvia,Veneroidei,Veneridae,Venus,201.3,237,1,3,3,2,1,shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ammonitida,Arietitidae,Paracaloceras,174.1,208.5,0,56,0,0,0,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ammonitida,Hildoceratidae,Protogrammoceras,174.1,242,0,201,0,0,0,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ammonitida,Lytoceratidae,Analytoceras,174.1,208.5,0,5,0,0,0,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ammonitida,Lytoceratidae,Ectocentrites,174.1,208.5,0,23,0,0,0,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ammonitida,Nannolytoceratidae,Audaxlytoceras,175.6,251.2,0,32,0,0,0,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ammonitida,Psiloceratidae,Badouxia,189.6,208.5,0,195,0,0,0,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ammonitida,Psiloceratidae,Kammerkaroceras,189.6,208.5,0,5,0,0,0,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ammonitida,Psiloceratidae,Pselioceras,196.5,265.1,0,11,0,0,0,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ammonitida,Psiloceratidae,Psiloceras,174.1,237,0,137,2,2,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ammonitida,Schlotheimiidae,Angulaticeras,183,208.5,0,87,0,0,0,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ammonitida,Schlotheimiidae,Storthoceras,196.5,237,0,27,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Aulacoceratida,Xiphoteuthididae,Atractites,201.3,251.2,1,52,6,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Adygeitidae,Adygeites,201.3,208.5,1,1,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Arcestidae,Arcestes,201.3,247.2,1,148,42,12,4,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Arcestidae,Proarcestes,201.3,247.2,1,193,2,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Arcestidae,Rhaetites,201.3,208.5,1,7,7,1,2,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Arcestidae,Stenarcestes,201.3,235,1,30,16,6,2,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Choristoceratidae,Choristoceras,196.5,212,0,66,59,9,10,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Choristoceratidae,Peripleurites,201.3,212,1,6,6,2,3,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Choristoceratidae,Rhabdoceras,201.3,228,1,27,23,1,4,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Choristoceratidae,Vandaites,201.3,208.5,1,7,7,3,3,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Cladiscitidae,Cladiscites,201.3,237,1,116,10,2,2,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Cladiscitidae,Paracladiscites,201.3,242,1,40,21,1,3,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Cochloceratidae,Cochlocerasfisheri,205.6,212,1,1,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Cochloceratidae,Paracochloceras,201.3,221.5,1,7,6,3,3,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Cycloceltitidae,Cycloceltites,201.3,228,1,5,4,3,3,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Cycloceltitidae,Ophiorhabdoceras,205.6,212,1,1,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Didymitidae,Didymites,201.3,237,1,14,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Dronovitidae,Dronovites,205.6,212,1,1,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Gymnitidae,Paragymnites,201.3,237,1,11,5,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Gymnitidae,Placites,201.3,237,1,53,27,7,6,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Gymnitidae,Protoplatytes,201.3,208.5,1,1,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Haloritidae,Amarassites,201.3,237,1,2,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Haloritidae,Catenohalorites,205.6,215.56,1,3,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Haloritidae,Gnomohalorites,205.6,212,1,8,8,4,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Haloritidae,Halorites,205.6,228,1,7,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Haloritidae,Paraguembelites,205.6,212,1,8,8,2,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Haloritidae,Sagenites,201.3,232,1,5,2,2,2,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Haloritidae,Tropihalorites,205.6,212,1,4,4,2,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Megaphyllitidae,Megaphyllites,201.3,247.2,1,125,14,2,5,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Metasibiritidae,Gabboceras,201.3,208.5,1,1,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Metasibiritidae,Lissonites,201.3,228,1,8,6,2,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Metasibiritidae,Metasibirites,201.3,232,1,17,3,3,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Metasibiritidae,Tozeria,201.3,208.5,1,1,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Pinacoceratidae,Pinacoceras,201.3,247.2,1,40,6,3,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Steinmannitidae,Alloclionites,205.6,215.56,1,14,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Steinmannitidae,Nannosteinmannites,205.6,212,1,1,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Thetiditidae,Nassichukites,205.6,212,1,2,2,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Trachyceratidae,Daxatina,201.3,242,1,38,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Trachyceratidae,Spirogmoceras,201.3,237,1,13,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Tropitidae,Discotropites,201.3,237,1,63,5,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Ceratitida,Tropitidae,Jovites,201.3,237,1,17,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Loligosepiida,Loligosepiidae,Loligosepia,182,208.5,0,10,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Nautilida,Cenoceratidae,Cenoceras,170.3,242,0,139,0,0,0,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Nautilida,Clydonautilidae,Proclydonautilus,201.3,237,1,55,12,3,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Nautilida,Gonionautilidae,Gonionautilus,201.3,212,1,5,5,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Nautilida,Grypoceratidae,Grypoceras,201.3,252.17,1,32,5,4,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Nautilida,NO_FAMILY_SPECIFIED,Yakutionautilus,205.6,215.56,1,6,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Nautilida,Paranautilidae,Paranautilus,205.6,259.9,1,42,6,3,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Nautilida,Siberionautilidae,Siberionautilus,205.6,215.56,1,4,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Nautilida,Syringonautilidae,Juvavionautilus,205.6,251.2,1,5,2,2,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Nautilida,Syringonautilidae,Oxynautilus,205.6,221.5,1,6,4,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Nautilida,Syringonautilidae,Syringoceras,205.6,251.2,1,31,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Nautilida,Tainoceratidae,Germanonautilus,205.6,247.2,1,91,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Nautilida,Tainoceratidae,Sibyllonautilus,201.3,247.2,1,29,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Orthocerida,Orthoceratidae,Trematoceras,205.6,251.3,1,52,3,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Phylloceratida,Discophyllitidae,Tragorhacoceras,205.6,221.5,1,6,2,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Phylloceratida,Juraphyllitidae,Rhacophyllites,189.6,242,0,57,27,2,8,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Phylloceratida,Phylloceratidae,Phylloceras,174.1,208.5,0,328,0,0,0,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Phylloceratida,Ussuritidae,Eopsiloceras,196.5,221.5,0,9,7,2,4,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Cephalopoda,Phylloceratida,Ussuritidae,Wopfingites,205.6,212,1,1,1,1,1,pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Allogastropoda,Anoptychiidae,Anoptychia,189.6,247.2,0,41,5,2,1,epifaunal,"slow, motile",grazer/predator,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Allogastropoda,Gordenellidae,Promathilda,201.3,251.3,1,12,6,4,1,epifaunal,"slow, motile",grazer/predator,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Allogastropoda,Gordenellidae,Promathildia,174.1,259.9,0,88,2,2,1,epifaunal,"slow, motile",grazer/predator,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Allogastropoda,Mathildidae,Siphonilda,205.6,212,1,1,1,1,1,epifaunal,"slow, motile",grazer/predator,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Allogastropoda,Mathildidae,Teretrina,201.3,247.2,1,35,24,7,1,epifaunal,"slow, motile",grazer/predator,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Allogastropoda,Tofanellidae,Camponaxis,201.3,235,1,6,3,1,1,epifaunal,"slow, motile",grazer/predator,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Allogastropoda,Tofanellidae,Neodonaldina,174.1,247.2,0,26,0,0,0,epifaunal,"slow, motile",grazer/predator,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Architaenioglossa,Ampullinidae,Ampullospira,175.6,228,0,31,0,0,0,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Architectibranchia,Acteonellidae,Actaeonella,201.3,237,1,1,1,1,1,epifaunal,"slow, motile",predator,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Architectibranchia,Cylindrobullinidae,Conactaeon,201.3,228,1,9,8,2,1,epifaunal,"slow, motile",predator,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Architectibranchia,Cylindrobullinidae,Cylindrobullina,174.1,251.3,0,78,25,8,2,epifaunal,"slow, motile",predator,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Architectibranchia,Tubiferidae,Consobrinella,183,208.5,0,2,1,1,1,epifaunal,"slow, motile",predator,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Architectibranchia,Tubiferidae,Sinuarbullina,183,252.17,0,4,0,0,0,epifaunal,"slow, motile",predator,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Caenogastropoda,Acteoninidae,Actaeonina,183,228,0,10,4,2,1,epifaunal,"slow, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Caenogastropoda,Acteoninidae,Ovactaeonina,174.1,235,0,134,0,0,0,epifaunal,"slow, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Caenogastropoda,Coelostylinidae,Coelostylina,174.1,259.9,0,229,9,4,1,epifaunal,"slow, motile",grazer/predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Caenogastropoda,Coelostylinidae,Omphaloptycha,196.5,259.9,0,71,17,3,1,epifaunal,"slow, motile",grazer/predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Caenogastropoda,Coelostylinidae,Pustulifer,201.3,242,1,21,1,1,1,epifaunal,"slow, motile",grazer/predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Caenogastropoda,Protorculidae,Anulifera,182,228,0,8,4,1,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Caenogastropoda,Protorculidae,Chulitnacula,201.3,228,1,5,3,1,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Caenogastropoda,Protorculidae,Moerkeia,205.6,242,1,4,2,1,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Caenogastropoda,Protorculidae,Protorcula,205.6,265.1,1,35,4,1,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Caenogastropoda,Protorculidae,Stereokion,205.6,212,1,1,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Caenogastropoda,Protorculidae,Toxoconcha,201.3,252.17,1,23,5,2,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Caenogastropoda,Protorculidae,Undularia,201.3,247.2,1,10,2,1,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Caenogastropoda,Settsassiidae,Katosira,182.7,247.2,0,35,0,0,0,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Caenogastropoda,Settsassiidae,Kittliconcha,201.3,247.2,1,20,6,3,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Cycloneritida,Naticopsidae,Dicosmos,205.6,259.9,1,38,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,bimineralic,moderate carbonate load
+Mollusca,Gastropoda,Cycloneritida,Neritariidae,Dentineritaria,174.1,242,0,6,0,0,0,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Cycloneritida,Neritariidae,Neritaria,182,251.3,0,82,20,5,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Cycloneritida,Neritariidae,Oncochilus,201.3,235,1,2,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Cycloneritida,Neritidae,Trachynerita,201.3,251.3,1,25,5,3,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,bimineralic,moderate carbonate load
+Mollusca,Gastropoda,Euomphalina,Anomphalidae,Anomphalus,199.3,265.1,0,21,3,2,1,epifaunal,"stationary, unattached",suspension,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Euomphalina,Euomphalidae,Phymatifer,201.3,228,1,1,1,1,1,epifaunal,"stationary, unattached",suspension,hemocyanin,intermediate,bimineralic,moderate carbonate load
+Mollusca,Gastropoda,Euomphalina,Paraturbinidae,Chartroniella,201.3,228,1,20,15,2,1,epifaunal,"stationary, unattached",suspension,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Heterobranchia,Pyramidellidae,Chemnitzia,201.3,247.2,1,7,2,2,1,epifaunal,"facultative, unattached",predator,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Heterobranchia,Pyramidellidae,Turbonilla,201.3,247.2,1,6,1,1,1,epifaunal,"facultative, unattached",predator,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Littorinimorpha,Littorinidae,Heterospira,201.3,237,1,2,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Littorinimorpha,Littorinidae,Praelittorina,205.6,212,1,1,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Littorinimorpha,Naticidae,Amauropsis,201.3,242,1,8,3,2,1,semi-infaunal,"slow, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Littorinimorpha,Naticidae,Natica,175.6,254.17,0,22,0,0,0,semi-infaunal,"slow, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Littorinimorpha,Naticidae,Naticella,201.3,251.2,1,4,2,1,1,semi-infaunal,"slow, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Littorinimorpha,Naticidae,Sigaretus,201.3,237,1,1,1,1,1,semi-infaunal,"slow, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Murchisoniina,Gosseletinidae,Pareuryalox,201.3,228,1,2,2,1,1,epifaunal,"facultative, unattached",suspension,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Murchisoniina,Lophospiridae,Worthenia,175.6,265.1,0,156,4,3,1,epifaunal,"facultative, unattached",suspension,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Murchisoniina,Loxonematidae,Stephanocosmia,201.3,242,1,14,1,1,1,epifaunal,"facultative, unattached",suspension,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Murchisoniina,Porcelliidae,Kokenella,205.6,247.2,1,14,1,1,1,epifaunal,"facultative, unattached",suspension,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Murchisoniina,Trochonematidae,Guidonia,182.7,228,0,14,10,5,1,epifaunal,"facultative, unattached",suspension,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Murchisoniina,Wortheniellidae,Rinaldoella,205.6,247.2,1,54,1,1,1,epifaunal,"facultative, unattached",suspension,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Murchisoniina,Zygopleuridae,Andangularia,201.3,242,1,6,3,1,1,epifaunal,"facultative, unattached",suspension,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Murchisoniina,Zygopleuridae,Zygopleura,196.5,272.3,0,79,0,0,0,epifaunal,"facultative, unattached",suspension,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Neogastropoda,Pseudomelaniidae,Bourguetia,196.5,237,0,9,0,0,0,epifaunal,"slow, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Neogastropoda,Pseudomelaniidae,Oonia,182.7,237,0,6,0,0,0,epifaunal,"slow, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Neogastropoda,Pseudomelaniidae,Pseudomelania,163.5,242,0,38,1,1,1,epifaunal,"slow, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Neritoina,Delphinulopsidae,Paradelphinulopsis,205.6,237,1,3,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Neritoina,Neritopsidae,Cassianopsis,174.1,242,0,48,3,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,bimineralic,moderate carbonate load
+Mollusca,Gastropoda,Neritoina,Neritopsidae,Neritopsis,175.6,247.2,0,33,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,bimineralic,moderate carbonate load
+Mollusca,Gastropoda,Neritoina,Neritopsidae,Nuetzelopsis,205.6,212,1,1,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,bimineralic,moderate carbonate load
+Mollusca,Gastropoda,Neritoina,Neritopsidae,Weitschatopsis,205.6,212,1,1,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,bimineralic,moderate carbonate load
+Mollusca,Gastropoda,Neritoina,Palaeonaricidae,Palaeonarica,205.6,252.17,1,28,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,NO_ORDER_SPECIFIED,NO_FAMILY_SPECIFIED,Blodgettella,205.6,212,1,1,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,NO_ORDER_SPECIFIED,NO_FAMILY_SPECIFIED,Idahospira,205.6,212,1,1,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,NO_ORDER_SPECIFIED,NO_FAMILY_SPECIFIED,Jurassiphorus,201.3,212,1,2,2,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,NO_ORDER_SPECIFIED,NO_FAMILY_SPECIFIED,Ueckerconulus,205.6,212,1,1,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,NO_ORDER_SPECIFIED,Ptychomphalidae,Ptychomphalina,201.3,254.17,1,6,2,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,NO_ORDER_SPECIFIED,Ptychomphalidae,Ptychomphalus,174.1,272.3,0,53,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,NO_ORDER_SPECIFIED,Purpurinidae,Angularia,205.6,237,1,19,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,NO_ORDER_SPECIFIED,Purpurinidae,Microschiza,196.5,242,0,4,0,0,0,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,NO_ORDER_SPECIFIED,Purpurinidae,Protofusus,201.3,228,1,12,12,5,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,NO_ORDER_SPECIFIED,Purpurinidae,Pseudoscalites,205.6,235,1,3,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,NO_ORDER_SPECIFIED,Purpurinidae,Purpurina,175.6,237,0,15,0,0,0,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,NO_ORDER_SPECIFIED,Purpurinidae,Purpuroidea,174.1,242,0,22,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,NO_ORDER_SPECIFIED,Purpurinidae,Tretospira,196.5,242,0,24,0,0,0,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Patellogastropoda,Acmaeidae,Scurriopsis,196.5,251.3,0,5,0,0,0,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Sorbeoconcha,Cerithiidae,Cerithium,196.5,237,0,8,5,3,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Sorbeoconcha,Cryptaulacidae,Cryptaulax,170.3,242,0,33,4,3,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Sorbeoconcha,Procerithiidae,Kittlistylus,201.3,235,1,3,2,2,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Sorbeoconcha,Procerithiidae,Paracerithium,201.3,228,1,14,13,4,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Sorbeoconcha,Procerithiidae,Rhabdocolpus,182,228,0,10,8,4,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Sorbeoconcha,Procerithiidae,Rhynchocerithium,174.1,215.56,0,30,2,2,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Sorbeoconcha,Prostyliferidae,Prostylifer,196.5,237,0,13,0,0,0,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Sorbeoconcha,Prostyliferidae,Ptychostoma,201.3,237,1,15,2,1,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Sorbeoconcha,Thiaridae,Melania,196.5,247.2,0,11,0,0,0,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Sorbeoconcha,Turritellidae,Turritella,201.3,247.2,1,10,2,2,1,semi-infaunal,"facultative, unattached",suspension,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Trochida,Ataphridae,Chartronella,174.1,252.17,0,13,0,0,0,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Trochida,Ataphridae,Gudrunella,205.6,212,1,1,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Trochida,Trochidae,Anticonulus,175.6,235,0,25,0,0,0,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Trochida,Trochidae,Eocalliostoma,201.3,208.5,1,2,2,2,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Trochida,Trochidae,Margarites,183,232,0,4,0,0,0,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Trochida,Trochidae,Solariella,201.3,237,1,13,11,3,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Trochida,Trochidae,Solarioconulus,201.3,237,1,11,5,4,2,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Trochida,Trochidae,Stomatia,201.3,208.5,1,1,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Trochida,Trochidae,Trochus,183,237,0,23,2,2,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Tylostomatidae,Turbinidae,Boutillieria,201.3,251.3,1,6,4,1,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Tylostomatidae,Turbinidae,Homalopoma,201.3,237,1,1,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Tylostomatidae,Turbinidae,Turbo,183,237,0,31,2,1,1,epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Vetigastropoda,Cirridae,Hesperocirrus,201.3,228,1,10,8,4,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Vetigastropoda,Cirridae,Sororcula,201.3,228,1,9,9,2,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Vetigastropoda,Discohelicidae,Discohelix,174.1,247.2,0,99,0,0,0,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Vetigastropoda,Discohelicidae,Spiniomphalus,205.6,212,1,1,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Vetigastropoda,Emarginulinae,Emarginula,182.7,237,0,18,0,0,0,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Vetigastropoda,Eucyclidae,Eucycloscala,189.6,247.2,0,74,8,4,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Vetigastropoda,Eucyclidae,Eucyclus,183,232,0,8,2,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Vetigastropoda,Eucyclidae,Riselloidea,182,247.2,0,17,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Vetigastropoda,Eucyclidae,Trochonodus,205.6,265.1,1,2,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Vetigastropoda,Liotiidae,Brochidiella,201.3,228,1,2,2,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Vetigastropoda,Liotiidae,Brochidium,201.3,247.2,1,10,2,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Vetigastropoda,Pleurotomariidae,Leptomaria,175.6,247.2,0,3,0,0,0,epifaunal,"slow, motile",predator,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Vetigastropoda,Pleurotomariidae,Murihikua,201.6,247.2,1,8,1,1,1,epifaunal,"slow, motile",predator,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Vetigastropoda,Pleurotomariidae,Pleurotomaria,182.7,272.3,0,146,17,6,4,epifaunal,"slow, motile",predator,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Vetigastropoda,Pleurotomariidae,Sisenna,175.6,247.2,0,63,1,1,1,epifaunal,"slow, motile",predator,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Vetigastropoda,Pleurotomariidae,Talantodiscus,189.6,205.6,0,3,2,1,1,epifaunal,"slow, motile",predator,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Gastropoda,Vetigastropoda,Trochotomidae,Ditremaria,201.3,208.5,1,1,1,1,1,epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Scaphopoda,Dentaliida,Dentaliidae,Dentalium,174.1,247.2,0,50,0,0,0,shallow infaunal,"facultative, unattached",miner,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Scaphopoda,Dentaliida,Dentaliidae,Plagioglypta,201.3,265.1,1,79,2,1,1,shallow infaunal,"facultative, unattached",miner,hemocyanin,intermediate,aragonite,moderate carbonate load
+Mollusca,Scaphopoda,Dentaliida,Prodentaliidae,Prodentalium,183,259.9,0,31,0,0,0,shallow infaunal,"facultative, unattached",miner,hemocyanin,intermediate,aragonite,moderate carbonate load
+Porifera,?Demospongiae,?Inozoa,Disjectoporidae,Aksopora,205.6,212,1,1,1,1,1,erect,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,?Demospongiae,?Inozoa,Disjectoporidae,Carterina,201.3,228,1,3,2,2,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,?Demospongiae,?Inozoa,Disjectoporidae,Disjectopora,201.3,254.17,1,12,2,2,2,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,?Demospongiae,?Inozoa,Disjectoporidae,Pamiropora,205.6,228,1,4,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Calcarea,Porata,Polytholosiidae,Iranothalamia,205.6,228,1,14,10,1,1,erect,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Calcarea,Stellispongiida,Stellispongiidae,Eudea,201.3,242,1,11,3,3,1,erect,"stationary, attached",suspension,hemocyanin,broadcaster,high Mg calcite,heavy carbonate load
+Porifera,Calcarea,Stellispongiida,Stellispongiidae,Pareudea,205.6,215.56,1,1,1,1,1,erect,"stationary, attached",suspension,hemocyanin,broadcaster,high Mg calcite,heavy carbonate load
+Porifera,Calcarea,Stellispongiida,Stellispongiidae,Peronidella,201.3,242,1,27,6,4,3,erect,"stationary, attached",suspension,hemocyanin,broadcaster,high Mg calcite,heavy carbonate load
+Porifera,Calcarea,Stellispongiida,Stellispongiidae,Stellispongia,205.6,254.17,1,16,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,high Mg calcite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Annaecoeliidae,Annaecoelia,201.3,228,1,17,15,4,2,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Aphrosalpingidae,Russospongia,201.3,228,1,3,2,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Auriculospongiidae,Aliabadia,205.6,212,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Auriculospongiidae,Anguispongia,201.3,232,1,15,10,4,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Auriculospongiidae,Molengraaffia,201.3,228,1,20,13,2,4,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Colospongiidae,Colospongia,201.3,268.8,1,128,15,10,4,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Colospongiidae,Hajarispongia,205.6,228,1,5,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Colospongiidae,Kashanella,201.3,232,1,15,9,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Colospongiidae,Parauvanella,201.3,265.1,1,119,12,4,2,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Colospongiidae,Platythalamiella,201.3,265.1,1,6,3,2,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Cryptocoeliidae,Antalythalamia,205.6,228,1,4,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Cryptocoeliidae,Calabrispongia,201.3,228,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Cryptocoeliidae,Cryptocoelia,201.3,242,1,73,24,10,2,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Girtyocoeliidae,Enoplocoelia,205.6,265.1,1,9,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Girtyocoeliidae,Henricellum,201.3,228,1,2,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Girtyocoeliidae,Phraethalamia,205.6,254.17,1,2,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Girtyocoeliidae,Sollasia,205.6,268.8,1,172,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Globucatenulaiidae,Globucatenula,205.6,212,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Intrasporeocoeliidae,Delijania,205.6,212,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,NO_FAMILY_SPECIFIED,Incertuspongia,201.3,228,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,NO_FAMILY_SPECIFIED,Madonia,201.3,228,1,2,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,NO_FAMILY_SPECIFIED,Tenuipariespongia,201.3,232,1,2,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Noritubispongiidae,Noritubispongia,201.3,228,1,3,2,2,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Palermocoeliidae,Palermocoelia,201.3,228,1,2,2,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Parastylothalamiidae,Parastylothalamia,201.3,228,1,4,2,2,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Preperonidellidae,Bicoelia,201.3,265.1,1,46,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Preperonidellidae,Irregulaspongia,201.3,228,1,4,2,2,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Preperonidellidae,Permocorynella,201.3,265.1,1,35,9,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Preperonidellidae,Preperonidella,201.3,268.8,1,67,20,5,2,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Preperonidellidae,Pustelispongia,201.3,228,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Preperonidellidae,Trinakrispongia,201.3,228,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Salzburgiidae,Salzburgia,201.3,228,1,4,3,1,2,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Sebargasiidae,Amblysiphonella,201.3,265.1,1,98,21,11,3,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Sebargasiidae,Calabrisiphonella,201.3,228,1,3,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Sebargasiidae,Discosiphonella,201.3,265.1,1,57,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Sebargasiidae,Minisiphonella,201.3,212,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Sestrostomellidae,Marawandia,201.3,228,1,5,5,1,1,erect,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Sestrostomellidae,Polysiphonella,201.3,228,1,2,2,2,1,erect,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Sestrostomellidae,Sestrostomella,201.3,242,1,16,7,2,2,erect,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Sestrostomellidae,Vesicotubispongia,201.3,228,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Solenolmiidae,Battaglia,201.3,228,1,5,3,2,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Solenolmiidae,Cryptocoeliopsis,201.3,212,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Solenolmiidae,Deningeria,201.3,247.2,1,13,8,6,2,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Solenolmiidae,Panormida,201.3,228,1,11,7,5,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Solenolmiidae,Paradeningeria,201.3,237,1,22,19,4,3,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Solenolmiidae,Rostrospongia,201.3,228,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Solenolmiidae,Senowbaridaryana,201.3,242,1,19,16,4,2,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Solenolmiidae,Solenolmia,201.3,247.2,1,57,3,1,3,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Solenolmiidae,Welteria,201.3,228,1,8,8,3,2,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Stellispongiellidae,Lutia,205.6,212,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Stellispongiellidae,Multilaticanalia,201.3,228,1,2,2,2,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Stellispongiellidae,Prestellispongia,205.6,268.8,1,85,3,2,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Stellispongiellidae,Vermispongiella,205.6,212,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Thaumastocoeliidae,Musandamia,201.3,228,1,4,3,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Thaumastocoeliidae,Naybandella,201.3,228,1,3,3,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Thaumastocoeliidae,Pamirothalamia,205.6,212,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Thaumastocoeliidae,Pamiroverticillites,205.6,212,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Thaumastocoeliidae,Sphaeroverticillites,205.6,212,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Thaumastocoeliidae,Thaumastocoelia,201.3,265.1,1,13,2,2,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Agelasida,Virgolidae,Tyanada,201.3,232,1,9,6,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Ancorinida,Paelospongiidae,Actinospongiella,201.3,208.5,1,1,1,1,1,erect,"stationary, attached",suspension,hemocyanin,broadcaster,silica,little or no carbonate load
+Porifera,Demospongea,Ancorinida,Paelospongiidae,Paelospongia,201.3,242,1,4,3,2,1,erect,"stationary, attached",suspension,hemocyanin,broadcaster,silica,little or no carbonate load
+Porifera,Demospongea,Axinellida,Ceratoporellidae,Atrochaetetes,205.6,242,1,9,1,1,1,epifaunal,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,bimineralic,heavy carbonate load
+Porifera,Demospongea,Axinellida,NO_FAMILY_SPECIFIED,Circopora,205.6,212,1,1,1,1,1,epifaunal,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,bimineralic,heavy carbonate load
+Porifera,Demospongea,Axinellida,NO_FAMILY_SPECIFIED,Lamellata,201.3,228,1,6,5,1,1,epifaunal,"stationary, attached",suspension/symbionts,hemocyanin,broadcaster,bimineralic,heavy carbonate load
+Porifera,Demospongea,Chaetetida,Chaetetidae,Blastochaetetes,201.3,221.5,1,4,2,1,3,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Chaetetida,Chaetetidae,Chaetetes,183,268.8,0,5,0,0,0,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Chaetetida,NO_FAMILY_SPECIFIED,Conochaetetes,205.6,212,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Chaetetida,NO_FAMILY_SPECIFIED,Magnicanalifera,205.6,212,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Hadromerida,Alpinothalamiidae,Simiuvanella,201.3,228,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Hadromerida,Celyphiidae,Alpinothalamia,201.3,242,1,32,3,2,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,high Mg calcite,heavy carbonate load
+Porifera,Demospongea,Hadromerida,Celyphiidae,Celyphia,205.6,265.1,1,37,3,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,high Mg calcite,heavy carbonate load
+Porifera,Demospongea,Hadromerida,Celyphiidae,Follicatena,205.6,259.9,1,38,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,high Mg calcite,heavy carbonate load
+Porifera,Demospongea,Hadromerida,Celyphiidae,Pamirocoelia,201.3,212,1,2,2,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,high Mg calcite,heavy carbonate load
+Porifera,Demospongea,Hadromerida,Celyphiidae,Paravesicocaulis,201.3,242,1,13,8,4,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,high Mg calcite,heavy carbonate load
+Porifera,Demospongea,Hadromerida,Celyphiidae,Uvanella,201.3,242,1,71,22,3,2,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,high Mg calcite,heavy carbonate load
+Porifera,Demospongea,Lithistida,Anthaspidellidae,Stromatomorpha,201.3,228,1,21,15,3,3,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,silica,little or no carbonate load
+Porifera,Demospongea,Lithistida,Radiocelliidae,Radiocella,205.6,212,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,silica,little or no carbonate load
+Porifera,Demospongea,NO_ORDER_SPECIFIED,Criccospongiidae,Criccophorina,201.3,208.5,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,silica,little or no carbonate load
+Porifera,Demospongea,NO_ORDER_SPECIFIED,NO_FAMILY_SPECIFIED,Lovcenipora,201.3,237,1,7,4,3,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,silica,little or no carbonate load
+Porifera,Demospongea,NO_ORDER_SPECIFIED,Tabasiidae,Tabasia,201.3,228,1,13,13,4,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Pachastrellida,Costamorphiidae,Costamorpha,201.3,212,1,2,2,2,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,silica,little or no carbonate load
+Porifera,Demospongea,Tetralithistida,Siphoniidae,Jerea,201.3,208.5,1,1,1,1,1,erect,"stationary, attached",suspension,hemocyanin,broadcaster,silica,little or no carbonate load
+Porifera,Demospongea,Vaceletida,Cheilosporitiidae,Cheilosporites,201.3,232,1,18,13,1,2,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Vaceletida,Cribrothalamiidae,Cribrothalamia,201.3,228,1,7,5,3,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Vaceletida,Gigantothalamiidae,Zanklithalamia,201.3,212,1,4,4,3,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Vaceletida,NO_FAMILY_SPECIFIED,Platysphaerocoelia,205.6,212,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Vaceletida,Polytubithalamiidae,Polytubithalamia,201.3,228,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Vaceletida,Verticillitidae,Cinnabaria,205.6,237,1,15,2,2,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Vaceletida,Verticillitidae,Fanthalamia,201.3,237,1,13,5,3,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Vaceletida,Verticillitidae,Nevadathalamia,201.3,228,1,29,18,8,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Demospongea,Vaceletida,Verticillitidae,Stylothalamia,174.1,268.8,0,23,4,2,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load
+Porifera,Hexactinellida,Amphidiscosa,Pelicaspongiidae,Naybandospongia,205.6,212,1,1,1,1,1,epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,silica,little or no carbonate load
+Porifera,Hexactinellida,Innaecoeliida,Craticulariidae,Casearia,205.6,237,1,13,5,5,1,erect,"stationary, attached",suspension,hemocyanin,broadcaster,silica,little or no carbonate load
+Porifera,Hexactinellida,Innaecoeliida,Craticulariidae,Esfahanella,205.6,212,1,2,2,2,1,erect,"stationary, attached",suspension,hemocyanin,broadcaster,silica,little or no carbonate load

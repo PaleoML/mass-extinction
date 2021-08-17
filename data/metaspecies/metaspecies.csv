@@ -1,0 +1,119 @@
+tiering,motility,feeding,protein,reproduction,mineralogy,physiology,PTr_size,PTr_extProb,TrJ_size,TrJ_extProb,KPg_size,KPg_extProb,total_size
+epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load,242,0.900826446,92,0.75,56,0.607142857,390
+pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load,66,0.818181818,60,0.716666667,79,0.898734177,205
+shallow infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load,12,0.5,34,0.647058824,90,0.455555556,136
+erect,"stationary, attached",symbionts,hemocyanin,broadcaster,aragonite,heavy carbonate load,0,,44.5,0.584269663,90.5,0.408839779,135
+epifaunal,"slow, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load,3,0.666666667,6.5,0.076923077,108,0.481481481,117.5
+epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load,29,0.586206897,44,0.363636364,27,0.222222222,100
+epifaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load,46,0.391304348,32,0.34375,16,0.375,94
+epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load,36,0.472222222,50,0.94,4,0,90
+epifaunal,"slow, motile",grazer,hemocyanin,non-broadcaster,aragonite,moderate carbonate load,6,0.666666667,20.5,0.512195122,60,0.35,86.5
+erect,"stationary, attached",suspension,hemocyanin,broadcaster,silica,little or no carbonate load,0,,2,1,79,0.848101266,81
+epifaunal,"slow, motile",grazer,hemocyanin,intermediate,aragonite,moderate carbonate load,8,0.375,32,0.390625,33,0.363636364,73
+erect,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load,0,,0,,56,1,56
+epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,low Mg calcite,moderate carbonate load,0,,11,0.363636364,43,0.534883721,54
+epifaunal,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,moderate carbonate load,0,,7,0.428571429,46,0.391304348,53
+epifaunal,"slow, motile",predator,hemocyanin,intermediate,aragonite,moderate carbonate load,10,0.4,11,0.318181818,31,0.516129032,52
+erect,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load,0,,18.5,0.702702703,23.5,0.340425532,42
+shallow infaunal,"slow, motile",miner,hemocyanin,intermediate,aragonite,moderate carbonate load,8,0.375,10,0.3,22,0.136363636,40
+erect,"stationary, attached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load,27,0.851851852,3,1,2,0,32
+epifaunal,"slow, motile",grazer,other,intermediate,high Mg calcite,moderate carbonate load,2,0.5,4.5,0.333333333,21.5,0.302325581,28
+epifaunal,"slow, motile",suspension,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load,28,0.785714286,0,,0,,28
+semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load,9,0.444444444,8,0,10,0.5,27
+semi-infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load,6,0.333333333,12,0.75,9,0.333333333,27
+epifaunal,"facultative, unattached",suspension,hemocyanin,intermediate,aragonite,moderate carbonate load,17,0.294117647,7,0.571428571,0,,24
+epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,low Mg calcite,heavy carbonate load,24,1,0,,0,,24
+epifaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load,3,0,7,0,13,0.307692308,23
+semi-infaunal,"slow, motile",predator,hemocyanin,non-broadcaster,aragonite,moderate carbonate load,1,0,3,0.666666667,17,0.117647059,21
+epifaunal,"stationary, attached",suspension,hemocyanin,non-broadcaster,aragonite,moderate carbonate load,0,,0,,20,0.65,20
+deep infaunal,"facultative, unattached",symbionts,hemocyanin,broadcaster,aragonite,moderate carbonate load,0,,4,0.25,14,0.285714286,18
+shallow infaunal,"slow, motile",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load,2,0,11,0.363636364,5,0.4,18
+pelagic,"fast, motile",predator,hemoglobin,intermediate,soft-bodied,little or no carbonate load,7,0.142857143,11,1,0,,18
+epifaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load,3,0,9,0.444444444,4,0.25,16
+erect,"facultative, attached",suspension,other,broadcaster,high Mg calcite,heavy carbonate load,0,,2,0.5,14,0.214285714,16
+epifaunal,"slow, motile",surface deposit,other,intermediate,high Mg calcite,heavy carbonate load,0,,5,0.2,10,0.3,15
+epifaunal,"slow, motile",surface deposit,hemocyanin,intermediate,bimineralic,moderate carbonate load,14,0.785714286,0,,0,,14
+shallow infaunal,"facultative, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load,1,0,3,0.333333333,10,0.1,14
+deep infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load,5,1,3,0,6,0.666666667,14
+epifaunal,"slow, motile",predator,other,intermediate,high Mg calcite,heavy carbonate load,0,,0,,14,0.214285714,14
+epifaunal,"slow, motile",surface deposit,other,intermediate,high Mg calcite,moderate carbonate load,0,,0,,13,0.384615385,13
+epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load,8,0.5,2,0.5,3,0,13
+shallow infaunal,"slow, motile",suspension,other,intermediate,high Mg calcite,moderate carbonate load,0,,0,,13,0.692307692,13
+epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,high Mg calcite,moderate carbonate load,2,0,2,0.5,8,0.5,12
+epifaunal,"slow, motile",grazer,hemocyanin,intermediate,bimineralic,moderate carbonate load,3,0,4,0.5,5,0,12
+epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,high Mg calcite,heavy carbonate load,5,0.4,6,1,0,,11
+shallow infaunal,"facultative, unattached",surface deposit,hemocyanin,broadcaster,aragonite,moderate carbonate load,0,,0,,11,0.636363636,11
+epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,silica,little or no carbonate load,0,,2,1,8,0.875,10
+epifaunal,"facultative, attached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load,1,0,3,1,6,0.333333333,10
+epifaunal,"slow, motile",predator,hemocyanin,non-broadcaster,bimineralic,moderate carbonate load,0,,0,,9,0.444444444,9
+semi-infaunal,"facultative, unattached",miner,other,intermediate,high Mg calcite,moderate carbonate load,0,,0,,9,0.444444444,9
+semi-infaunal,"facultative, unattached",suspension,hemocyanin,non-broadcaster,aragonite,moderate carbonate load,0,,1,1,8,0.375,9
+deep infaunal,"slow, motile",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load,0,,2,0,7,0.285714286,9
+shallow infaunal,"facultative, unattached",miner,hemocyanin,intermediate,aragonite,moderate carbonate load,3,0,3,0.333333333,3,0,9
+epifaunal,"facultative, attached",suspension,other,intermediate,high Mg calcite,little or no carbonate load,2,0,6,0.666666667,1,1,9
+epifaunal,"stationary, unattached",suspension,hemerythrin,broadcaster,low Mg calcite,heavy carbonate load,7,0.714285714,1,1,1,0,9
+semi-infaunal,"facultative, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load,2,0,4,0.25,2,0.5,8
+epifaunal,"slow, motile",suspension,hemocyanin,non-broadcaster,aragonite,moderate carbonate load,1,0,0,,7,0.714285714,8
+epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,bimineralic,heavy carbonate load,0,,0,,8,0.125,8
+epifaunal,"facultative, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load,0,,1,1,7,0.285714286,8
+semi-infaunal,"slow, motile",suspension,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load,2,0.5,3,0.333333333,2,0,7
+semi-infaunal,"facultative, attached",surface deposit,other,intermediate,high Mg calcite,little or no carbonate load,1,0,3,0.666666667,2,0.5,6
+epifaunal,"slow, motile",predator,other,intermediate,high Mg calcite,moderate carbonate load,0,,2.5,0.6,3.5,0.428571429,6
+semi-infaunal,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,moderate carbonate load,0,,3,0,3,0.333333333,6
+epifaunal,"facultative, unattached",predator,hemocyanin,intermediate,aragonite,moderate carbonate load,0,,2,1,4,0.5,6
+shallow infaunal,"fast, motile",miner,hemocyanin,non-broadcaster,chitin,moderate carbonate load,0,,0,,5,0.2,5
+semi-infaunal,"stationary, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load,0,,5,0.8,0,,5
+epifaunal,"stationary, unattached",suspension,hemocyanin,intermediate,bimineralic,moderate carbonate load,4,0.5,0,,1,1,5
+shallow infaunal,"slow, motile",predator,hemocyanin,broadcaster,aragonite,moderate carbonate load,0,,0,,5,0.8,5
+epifaunal,"facultative, attached",suspension,hemocyanin,broadcaster,low Mg calcite,moderate carbonate load,1,0,3,0.333333333,1,0,5
+shallow infaunal,"stationary, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load,0,,0,,5,0.8,5
+pelagic,"fast, motile",suspension,hemocyanin,non-broadcaster,aragonite,moderate carbonate load,0,,0,,4,1,4
+shallow infaunal,"facultative, unattached",miner,other,intermediate,high Mg calcite,moderate carbonate load,0,,0,,4,0.5,4
+epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,phosphatic,little or no carbonate load,2,0,2,0,0,,4
+epifaunal,"stationary, unattached",suspension,hemocyanin,intermediate,aragonite,moderate carbonate load,1,0,2,0.5,0,,3
+epifaunal,"stationary, attached",suspension,hemerythrin,broadcaster,high Mg calcite,heavy carbonate load,0,,0,,3,0.333333333,3
+semi-infaunal,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load,0,,1,0,2,0.5,3
+pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,soft-bodied,moderate carbonate load,0,,0,,3,1,3
+pelagic,"facultative, attached",suspension,other,broadcaster,high Mg calcite,heavy carbonate load,0,,2,1,1,0,3
+epifaunal,"fast, motile",surface deposit,hemocyanin,non-broadcaster,chitin,moderate carbonate load,2,1,0,,1,0,3
+semi-infaunal,"stationary, unattached",symbionts,hemocyanin,broadcaster,aragonite,moderate carbonate load,0,,3,1,0,,3
+shallow infaunal,"facultative, unattached",suspension,hemerythrin,broadcaster,phosphatic,little or no carbonate load,1,0,1,0,1,0,3
+shallow infaunal,"slow, motile",surface deposit,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load,2,0,1,0,0,,3
+deep infaunal,"facultative, attached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load,0,,1,0,2,0.5,3
+erect,"stationary, attached",suspension,hemocyanin,broadcaster,high Mg calcite,heavy carbonate load,0,,2,1,1,0,3
+shallow infaunal,"facultative, attached",symbionts,hemocyanin,intermediate,aragonite,moderate carbonate load,2,0.5,0,,1,0,3
+deep infaunal,"slow, motile",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load,0,,1,0,1,1,2
+pelagic,"slow, motile",predator,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load,1,0,1,1,0,,2
+shallow infaunal,"slow, motile",symbionts,hemocyanin,intermediate,aragonite,moderate carbonate load,0,,1,0,1,0,2
+erect,"stationary, attached",suspension,hemocyanin,broadcaster,gorgonin,little or no carbonate load,0,,0,,2,0,2
+shallow infaunal,"stationary, unattached",suspension,hemocyanin,broadcaster,aragonite,moderate carbonate load,0,,0,,2,0.5,2
+epifaunal,"slow, motile",suspension,other,intermediate,high Mg calcite,little or no carbonate load,0,,2,0.5,0,,2
+epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,phosphatic,little or no carbonate load,1,0,1,1,0,,2
+epifaunal,"stationary, unattached",suspension,hemocyanin,broadcaster,bimineralic,moderate carbonate load,0,,1,1,1,1,2
+epifaunal,"slow, motile",surface deposit,hemocyanin,intermediate,aragonite,moderate carbonate load,0,,0,,2,0,2
+shallow infaunal,"facultative, unattached",symbionts,hemocyanin,broadcaster,aragonite,moderate carbonate load,0,,2,0,0,,2
+epifaunal,"stationary, attached",predator,hemocyanin,intermediate,bimineralic,moderate carbonate load,2,1,0,,0,,2
+epifaunal,"slow, motile",surface deposit,other,broadcaster,high Mg calcite,heavy carbonate load,2,0,0,,0,,2
+erect,"stationary, attached",suspension,other,broadcaster,high Mg calcite,heavy carbonate load,1,1,1,0,0,,2
+semi-infaunal,"slow, motile",predator,other,intermediate,high Mg calcite,heavy carbonate load,0,,1,1,0,,1
+semi-infaunal,"slow, motile",surface deposit,hemocyanin,intermediate,aragonite,moderate carbonate load,0,,0,,1,1,1
+semi-infaunal,"stationary, attached",suspension,other,broadcaster,aragonite,moderate carbonate load,0,,0,,1,0,1
+shallow infaunal,"facultative, unattached",surface deposit,hemocyanin,broadcaster,soft-bodied,little or no carbonate load,0,,1,0,0,,1
+epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,silica,heavy carbonate load,1,1,0,,0,,1
+pelagic,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,moderate carbonate load,0,,0,,1,0,1
+epifaunal,"slow, motile",suspension,other,intermediate,high Mg calcite,heavy carbonate load,0,,1,1,0,,1
+semi-infaunal,"fast, motile",predator,hemocyanin,non-broadcaster,chitin,little or no carbonate load,1,0,0,,0,,1
+pelagic,"slow, motile",suspension,hemocyanin,non-broadcaster,low Mg calcite,moderate carbonate load,1,0,0,,0,,1
+deep infaunal,"fast, motile",suspension,hemocyanin,non-broadcaster,chitin,moderate carbonate load,0,,0,,1,0,1
+epifaunal,"facultative, attached",surface deposit,other,broadcaster,high Mg calcite,heavy carbonate load,1,0,0,,0,,1
+epifaunal,"fast, motile",symbionts,hemocyanin,non-broadcaster,chitin,moderate carbonate load,0,,0,,1,0,1
+semi-infaunal,"stationary, unattached",surface deposit,hemocyanin,broadcaster,bimineralic,moderate carbonate load,1,1,0,,0,,1
+epifaunal,"stationary, attached",suspension,hemocyanin,broadcaster,bimineralic,heavy carbonate load,0,,1,1,0,,1
+erect,"stationary, attached",suspension,hemocyanin,broadcaster,low Mg calcite,heavy carbonate load,0,,1,1,0,,1
+epifaunal,"stationary, attached",suspension,hemocyanin,intermediate,aragonite,moderate carbonate load,0,,0,,1,1,1
+epifaunal,"stationary, attached",suspension,hemocyanin,non-broadcaster,chitin,moderate carbonate load,0,,0,,1,1,1
+epifaunal,"stationary, attached",symbionts,hemocyanin,broadcaster,bimineralic,heavy carbonate load,0,,1,1,0,,1
+epifaunal,"stationary, unattached",suspension,hemerythrin,broadcaster,aragonite,heavy carbonate load,0,,0,,1,1,1
+erect,"facultative, unattached",suspension,hemocyanin,broadcaster,aragonite,heavy carbonate load,0,,0,,1,0,1
+erect,"stationary, attached",suspension,hemerythrin,broadcaster,bimineralic,heavy carbonate load,0,,0,,1,0,1
+epifaunal,"stationary, unattached",suspension,hemocyanin,broadcaster,low Mg calcite,moderate carbonate load,0,,1,0,0,,1
