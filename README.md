@@ -17,7 +17,7 @@
 #data_20ext contains the data used for the extinction selectivity invesigated for each stage of the study interval, i.e., inlcudes background intervals
 #images conatins figures produced by the python code during the analysis
 #models conatins the Catboost models produced by the python code
-#PBDB_Download inlcudes the vetted .csv files downloaded from the paleobiology database
+#PBDB_Download inlcudes the vetted .csv files downloaded from the paleobiology database. Changes to the original downloads can be done by comparing the "accepted" #columns with the PBDB database.
 
 #To re-run the analysis in this study:
 
